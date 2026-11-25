@@ -11,20 +11,19 @@
 </head>
 <body>
   <a class="skip" href="#app">Skip to content</a>
-  <header class="top" id="top">
-    <a class="brand" href="#/">
-      <span class="brand-mark">WBB</span>
-      <span class="brand-text">William Byrd Baseball · Lifts</span>
-    </a>
-    <nav class="top-nav" id="top-nav" aria-label="Primary"></nav>
+  <header class="top">
+    <a class="brand" href="#/">WBB · Lifts</a>
   </header>
-  <main id="app" tabindex="-1">
-    <p class="loading">Loading the program…</p>
-  </main>
-  <footer class="foot" id="foot">
-    <p>Program: Pierre's Elite Performance (PEP) Sports Performance Training Program. Curated for William Byrd Baseball.</p>
-  </footer>
-  <script src="js/qrcode.js"></script>
+  <main id="app"></main>
+  <div id="timer" class="timer" hidden>
+    <div class="digits" id="digits">0:00</div>
+    <div class="timer-row" id="presets"></div>
+    <div class="timer-row">
+      <button type="button" id="timer-pause">Pause</button>
+      <button type="button" id="timer-reset">Reset</button>
+    </div>
+  </div>
+  <footer class="foot">Program: Pierre's Elite Performance (PEP). Curated for William Byrd Baseball.</footer>
   <script src="js/app.js"></script>
 </body>
 </html>
