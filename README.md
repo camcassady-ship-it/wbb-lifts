@@ -37,7 +37,7 @@ Hash routes, and the same places as a query string:
 
 Day ids are `day-1`, `day-2`, `day-3`, `day-4`, `schedule-day-3` (the schedule-page rest day in Phases 2 and 3), `off`, and `weekend`. A numeric `day=1` is accepted in the query string.
 
-Coach mode walks the day in order: warm-up, pre-core, the A-block complex, then accessory blocks. Rest buttons use the times printed in the PDF (for example 20s and 30s between complex exercises, 4 and 5 minutes between complex sets, 1.5 minutes on accessory blocks). Arrow keys and swipe move between steps. Elite / Novice switches the max label between 1RM and 3RM. A max typed into the calculator is stored in `localStorage` on that device only.
+Coach mode walks the day in order: warm-up (each agility drill, then mobility, then dynamic flexibility), pre-core, the A-block complex, then accessory blocks. Mapped demo clips play inline, muted and looping, only while on screen (at most two at once). Clips whose slide name was `[unclear]` and had no program path are not in the site. Rest buttons use the times printed in the PDF (for example 20s and 30s between complex exercises, 4 and 5 minutes between complex sets, 1.5 minutes on accessory blocks). Arrow keys and swipe move between steps. Elite / Novice switches the max label between 1RM and 3RM. A max typed into the calculator is stored in `localStorage` on that device only.
 
 ## `data/program.json`
 
@@ -105,5 +105,9 @@ An `Exercise`:
 ```
 
 `percents` are percentages of the entered 1RM or 3RM. `percentOfA1` is the PDF line “30–40% of A1” (or 20–30%), applied to that day’s A1 load, not a new percent of max. `percentGroups` is used when two PDF pages print different percentages for the same lift; both groups stay visible. `effortByWeek` is left as words such as `7.5/10 Effort`.
+
+Warm-up exercises may include `howTo`, `howToTitle`, `benefits`, and `sourceNotes` transcribed from the slide images. Agility lists all 14 drill names from those cards. The mobility name is `Inch Worm to Downward Dog`.
+
+An exercise may include `demos`: `{ id, src, poster, label?, sourceNotes? }`. `src` and `poster` point at `media/demos/`. A label is the GIF filename when the folder name is part of the source (for example `Trap Bar Dead Lift.gif` on Phase 2 Day 4 A1, which stays named Back Squat OR Front Squat). `scripts/attach_media.py` copies mapped clips and writes these fields. Re-run it after `scripts/program_days.py` if you regenerate the base JSON. The script expects the extracted media folder at `/tmp/lifts-media`.
 
 `scripts/build_program_json.py` and `scripts/program_days.py` regenerate `data/program.json` from the transcribed PDF text. The site itself does not run them.
