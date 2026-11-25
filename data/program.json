@@ -20,13 +20,299 @@
         "instructions": "Choose between 8 and all 14. Do at 60% to 70% effort. Focus on Technique.",
         "exercises": [
           {
-            "name": "Lateral Push Step"
+            "name": "Lateral Push-Step",
+            "howToTitle": "Lateral Push Step How To:",
+            "howTo": [
+              "Start the drill in the universal athletic stance!",
+              "To start the movement the athlete will Forcefully push one leg down and away into the ground, pushing hard through the glute and finishing through there toes, leading with the other leg in the direction they are going. Making sure every step mirrors the last.",
+              "Feet will remain under the hips or shoulder width apart. It is critical that the feet remain in this position in order to generate maximal power, which greatly increases your overall speed and agility movements.",
+              "This will also increase the amount of force you can put into the ground, thus improving your ability to change directions quickly in sports and for hockey players “skating stride power.”",
+              "10-20 yards on both legs"
+            ],
+            "benefits": [
+              "Builds lateral strength and power in the glutes and quadriceps muscles",
+              "Greatly improves your ability to change directions quickly in sports",
+              "Entire load is on one leg, which helps with balance and reduces the tendency to favour the stronger leg",
+              "Helps decrease lower body imbalances, making both legs equally powerful",
+              "Increases body control",
+              "The Explosive Lateral Push Step has been shown to greatly increase your overall power and speed. The single-leg nature of the exercise equalizes strength in both legs to improve lower body imbalances making both legs equally powerful! It develops a strong base in all sports!"
+            ],
+            "id": "warmup-agility-1",
+            "demos": [
+              {
+                "id": "api_36c059975b25",
+                "src": "media/demos/api_36c059975b25.mp4",
+                "poster": "media/demos/api_36c059975b25.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Explosive Lateral Push Step",
+            "howToTitle": "Explosive Lateral Push Step How To",
+            "howTo": [
+              "Start the drill in the universal athletic stance! (Feet under hips or feet shoulder width apart)",
+              "Make sure toes/feet are pointed straight and knees are aligned outside of big toe",
+              "Forcefully drive one leg down and away into the ground, push hard through your Glute and finish through your toes",
+              "Without counter movement, lead with the other leg in the direction you are going",
+              "Always Land with control and reset making sure you are in proper form before going again and never rush!",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-2",
+            "demos": [
+              {
+                "id": "api_b51247a39e17",
+                "src": "media/demos/api_b51247a39e17.mp4",
+                "poster": "media/demos/api_b51247a39e17.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Quick Lateral Push Step",
+            "howToTitle": "Quick Lateral Push Step How To",
+            "howTo": [
+              "Start the drill in the universal athletic stance (Feet under hips or feet shoulder width apart)",
+              "Make sure toes/feet are pointed straight and knees are aligned outside of big toe",
+              "Forcefully drive one leg down and away into the ground, push hard through your glute and finish through your toes while quickly returning your foot back under your hips",
+              "Without counter movement, lead with the other leg in the direction you are going, while swinging your arms across body creating momentum",
+              "Always land with control and never click your heels making sure to have full foot contact with the ground with every push",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-3",
+            "demos": [
+              {
+                "id": "api_fed7c4afe39e",
+                "src": "media/demos/api_fed7c4afe39e.mp4",
+                "poster": "media/demos/api_fed7c4afe39e.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Explosive Lateral Crossover Push Step",
+            "howToTitle": "Explosive Lateral Crossover Push Step How To",
+            "howTo": [
+              "Start the drill in the universal athletic stance (Feet under hips or feet shoulder width apart)",
+              "Make sure toes/feet are pointed straight and knees are aligned outside of big toe",
+              "Forcefully drive one leg down and away into the ground",
+              "The other leg will powerfully crossover",
+              "Land softly and with control",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-4",
+            "demos": [
+              {
+                "id": "api_97d37df87d52",
+                "src": "media/demos/api_97d37df87d52.mp4",
+                "poster": "media/demos/api_97d37df87d52.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Deceleration Lateral Shuffle",
+            "howToTitle": "Deceleration Lateral Shuffle How To",
+            "howTo": [
+              "Have the athlete Set up in the universal Athletic Position",
+              "As shown in the video to initiate the movement forcefully drive the outside leg down into the ground pushing away, leading with the right leg to start the shuffle",
+              "Every 5 yards the Athlete will decelerate (Coming to a complete stop) under control maintaining great form!",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-5",
+            "demos": [
+              {
+                "id": "api_0193fdde4912",
+                "src": "media/demos/api_0193fdde4912.mp4",
+                "poster": "media/demos/api_0193fdde4912.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Lateral Shuffle with Reverse Backwards Flip",
+            "howToTitle": "Lateral Shuffle with Reverse backwards Flip How To",
+            "howTo": [
+              "Athlete will set up in the universal athletic position (Feet under hips or feet shoulder width apart)",
+              "Make sure toes/feet are pointed straight and knees are aligned outside of big toe",
+              "As shown in the video to initiate the movement forcefully drive the outside leg down into the ground pushing away, leading with the right leg to start the shuffle!",
+              "Every 5 yards Flip your hips leading with the outside elbow which will flip you backwards",
+              "Keep your core engaged the whole time and make sure your head and chest stay up, and that your toes, hips and shoulders are pointed straight ahead! This will help you maintain proper form!",
+              "The key to this drill is maintaining full body control throughout each transition and not fading off the line",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-6",
+            "demos": [
+              {
+                "id": "api_a8a7e5b2055b",
+                "src": "media/demos/api_a8a7e5b2055b.mp4",
+                "poster": "media/demos/api_a8a7e5b2055b.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Deceleration Sprint (Decelerate every 5 yards “Complete Stop”)",
+            "howToTitle": "Deceleration Sprint (Decelerate every 5 yards “Complete Stop”) How To",
+            "howTo": [
+              "Have the athlete Set up in a staggered stance position (modified sprinter stance)",
+              "The athlete will start the movement with a quick burst off the line",
+              "Running for 5 yards then decelerating, breaking down “coming to a Complete Stop” making sure to maintain full body control",
+              "Then reaccelerate with a quick burst off the line without significant level change!",
+              "20 yards (Decelerating every 5 yards)"
+            ],
+            "id": "warmup-agility-7",
+            "demos": [
+              {
+                "id": "api_5d5918ff5f85",
+                "src": "media/demos/api_5d5918ff5f85.mp4",
+                "poster": "media/demos/api_5d5918ff5f85.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Deceleration Sprint (Decelerate every 5 yards “Stutter Step and Go”)",
+            "howToTitle": "Deceleration Sprint How To",
+            "howTo": [
+              "Set up in a staggered stance position (modified sprinter stance)",
+              "Make sure toes/feet are pointed straight with knees bent, back straight, shoulders down.",
+              "The athlete will start the movement with a quick burst off the line.",
+              "The athlete will run 5 yards and decelerate breaking down but not coming to a complete stop, and reaccelerate without significant level change maintain body control!",
+              "20 yards (Decelerating every 5 yards)"
+            ],
+            "id": "warmup-agility-8",
+            "demos": [
+              {
+                "id": "api_ac3e389d3961",
+                "src": "media/demos/api_ac3e389d3961.mp4",
+                "poster": "media/demos/api_ac3e389d3961.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Sprint/Shuffle/Sprint Shuffle",
+            "howToTitle": "Deceleration Sprint How To",
+            "howTo": [
+              "Set up in a staggered stance position (modified sprinter stance)",
+              "Make sure toes/feet are pointed straight with knees bent, back straight, shoulders down.",
+              "Run and Every 5 yards slow down and transition from Sprint to Shuffle",
+              "Keep your core engaged the whole time and make sure you stay one level and don’t pop up and down! This will help you maintain proper form",
+              "20 yards (Sprint to Shuffle every 5 yards)"
+            ],
+            "sourceNotes": [
+              "The how-to heading on this card still says “Deceleration Sprint How To”; the drill title on the card is Sprint/Shuffle/Sprint Shuffle."
+            ],
+            "id": "warmup-agility-9",
+            "demos": [
+              {
+                "id": "api_78622b497f8c",
+                "src": "media/demos/api_78622b497f8c.mp4",
+                "poster": "media/demos/api_78622b497f8c.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Fast-Slow Backpedal “Changing Tempo”",
+            "howToTitle": "Backpedal How To:",
+            "howTo": [
+              "Set up in a staggered stance position (modified sprinter stance)",
+              "Make sure toes/feet are pointed straight, knees bent at a 45 degree angle, head up, back straight and arms hanging loose in front of the body!",
+              "Weight on the ball of the feet",
+              "Push off the front foot and begin back pedaling",
+              "Keep chest over feet, feet close to the ground and pump the arms",
+              "Keep your core engaged the whole time and make sure you stay one level and don’t pop up and down! This will help you maintain proper form",
+              "Go fast for 5 yards then slow for 5 yards, repeating for 20 yards total!",
+              "20 yards (every 5 yards)"
+            ],
+            "id": "warmup-agility-10",
+            "demos": [
+              {
+                "id": "api_186e7939064f",
+                "src": "media/demos/api_186e7939064f.mp4",
+                "poster": "media/demos/api_186e7939064f.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Sprint-Backpedal-Sprint-Backpedal",
+            "howToTitle": "Sprint-Backpedal How To",
+            "howTo": [
+              "Set up in a staggered stance position (modified sprinter stance)",
+              "Make sure toes/feet are pointed straight with knees bent, back straight, shoulders down.",
+              "Run and every 5 yards smoothly transition to backpedal or vice versa",
+              "When in the backpedal make sure to keep your head up, back straight and arms hanging loose in front of the body!",
+              "Weight on the ball of the feet",
+              "Keep your core engaged the whole time and make sure you stay one level and don’t pop up and down! This will help you maintain proper form",
+              "Go fast but under control for 5-yard sprint then slow and controlled backpedal for 5 yards, repeating for 20 yards total!",
+              "20 yards (Decelerating every 5 yards)"
+            ],
+            "id": "warmup-agility-11",
+            "demos": [
+              {
+                "id": "api_c47857747484",
+                "src": "media/demos/api_c47857747484.mp4",
+                "poster": "media/demos/api_c47857747484.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Kick Step or Drop Step",
+            "howToTitle": "Kick Step or Drop Step How To:",
+            "howTo": [
+              "Set up in a staggered stance position but the feet lined up about shoulder width apart!",
+              "Make sure toes/feet are pointed straight, knees bent at a 45 degree angle, head up, back straight and arms hanging loose in front of the body!",
+              "Weight on the ball of the feet",
+              "As shown in the video, initiate your kick step by kicking your right leg back, followed by your left leg, switching stances (feet placement) every 5 yards repeating for 20 yards total!",
+              "Keep chest over feet, feet close to the ground and pump the arms",
+              "Keep your core engaged the whole time and make sure you stay one level and don’t pop up and down! This will help you maintain proper form",
+              "Go fast for 5 yards then slow for 5 yards, repeating for 20 yards total!",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-12",
+            "demos": [
+              {
+                "id": "api_59f418662d58",
+                "src": "media/demos/api_59f418662d58.mp4",
+                "poster": "media/demos/api_59f418662d58.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Two Step Rhythmic Shuffle “Quick Hip Flips”",
+            "howToTitle": "Two Step Rhythmic Shuffle “ Quick Hip Flips How To:",
+            "howTo": [
+              "Athlete starts on line in a 45 degree athletic position (feet under hips or feet shoulder width apart)",
+              "Make sure toes/feet are pointed straight and knees are aligned outside of big toe",
+              "Start with right foot moving right and left foot following",
+              "Every 2 steps, hip flip always keeping your head/eyes straight ahead",
+              "Keep your core engaged the whole time and make sure your chest stays lifted. This will help you maintain proper form",
+              "20 yards (Decelerating every 5 yards)"
+            ],
+            "id": "warmup-agility-13",
+            "demos": [
+              {
+                "id": "api_f891b6cddef7",
+                "src": "media/demos/api_f891b6cddef7.mp4",
+                "poster": "media/demos/api_f891b6cddef7.jpg"
+              }
+            ]
+          },
+          {
+            "name": "Flip and Run “Quick Hip Flips”",
+            "howToTitle": "Flip and Run “Quick Hip Flips” How To:",
+            "howTo": [
+              "Athlete starts on line in a 45 degree athletic position (Feet under hips or feet shoulder width apart)",
+              "Make sure toes/feet are pointed straight and knees are aligned outside of big toe",
+              "As shown in the video to initiate the movement, rapidly cross over your left leg, as this will create momentum to help start the run! “This is not a cross over run, think of it as just running side ways”",
+              "Every 5 yards flip your hips, disassociating your upper and lower body, keeping your head and eyes pointed forward!",
+              "10-20 yards on both legs"
+            ],
+            "id": "warmup-agility-14",
+            "demos": [
+              {
+                "id": "api_d3b21caa5ff0",
+                "src": "media/demos/api_d3b21caa5ff0.mp4",
+                "poster": "media/demos/api_d3b21caa5ff0.jpg"
+              }
+            ]
           }
         ],
         "sourceNotes": [
-          "Lateral Push Step is the only agility drill named in the full warm-up deck’s selectable text.",
-          "The other agility slides are images. Their names are not in the text sources, so they are not listed here.",
-          "The condensed deck’s agility slides are also images without those names in the text extract."
+          "All 14 agility drill names and how-tos are transcribed from the PEP Warm Up instruction-card images (slides 3–16). The condensed deck uses the same cards."
         ]
       },
       {
@@ -35,46 +321,145 @@
         "instructions": "Choose between 6-8",
         "exercises": [
           {
-            "name": "World's Greatest Stretch"
+            "name": "World's Greatest Stretch",
+            "benefits": [
+              "Increases Hip Extension, Hamstring Extension and Rotation",
+              "Trunk and T-Spine Mobility",
+              "Improves Balance and Stability"
+            ],
+            "id": "warmup-mobility-1"
           },
           {
-            "name": "Side to Side Lunge + Cossack"
+            "name": "Side to Side Lunge + Cossack",
+            "benefits": [
+              "Increase Hamstring and Hip Mobility",
+              "Increasing lateral stability, abduction and adduction abilities (Hip joint Capsule)",
+              "Improving the elasticity and strength of connective tissue and muscles across hip region"
+            ],
+            "id": "warmup-mobility-2"
           },
           {
-            "name": "Reverse Lunge + Side to Side Punch"
+            "name": "Reverse Lunge + Side to Side Punch",
+            "benefits": [
+              "Increases Hip Extension and Trunk Control",
+              "Develops stability in the knee, hip and core",
+              "Increases balance and strength in the glute, hip and core"
+            ],
+            "sourceNotes": [
+              "Selectable text / program.json omits the word Reach."
+            ],
+            "id": "warmup-mobility-3"
           },
           {
-            "name": "Quadricep Table Reach"
+            "name": "Quadricep Table Reach",
+            "benefits": [
+              "Hip Flexion/ Hip Extension happening at the same time",
+              "Dynamic Stability in the Foot-Ankle/Knee/Hip",
+              "Core Activation"
+            ],
+            "id": "warmup-mobility-4"
           },
           {
-            "name": "Ballistic Hip Hinge"
+            "name": "Ballistic Hip Hinge",
+            "benefits": [
+              "Hip Flexion and Hamstring Extension",
+              "Teaching Hip Hinge",
+              "Creating Glute Strength Stability"
+            ],
+            "id": "warmup-mobility-5"
           },
           {
-            "name": "Inch Worm to Downward Dog"
+            "name": "Inch Worm to Downward Dog",
+            "benefits": [
+              "Cobra: Thoracic Extension",
+              "Cobra: Hip Extension",
+              "Cobra: Abdominal Extension",
+              "Downward Dog: Hip Flexion",
+              "Downward Dog: Hamstring Extension",
+              "Downward Dog: Soleus Extension"
+            ],
+            "id": "warmup-mobility-6"
           },
           {
-            "name": "Side Bend w/ Over Head Side Reach"
+            "name": "Side Bend w/ Over Head Side Reach",
+            "benefits": [
+              "Dynamic Mobility:",
+              "(Lats) Latissimus Dorsi,",
+              "(QL) Quadratus Lumborum",
+              "IT Band) Iliotibial band"
+            ],
+            "id": "warmup-mobility-7"
           },
           {
-            "name": "Lunge w/ T-Spine Mobility and Hamstring Kick Combo"
+            "name": "Lunge w/ T-Spine Mobility and Hamstring Kick Combo",
+            "benefits": [
+              "Increases Hip Extension and Trunk Control",
+              "Hamstring Extension mobility",
+              "Balance and Stability in the core"
+            ],
+            "id": "warmup-mobility-8"
           },
           {
-            "name": "Push- Up to Downward Dog Heal Raise"
+            "name": "Push- Up to Downward Dog Heal Raise",
+            "benefits": [
+              "Upper Strength along with /Hip Flexion/Hamstring Extension/Soleus Extension",
+              "When Leg raises up Hip Extension and Strength",
+              "When Leg comes through Hip Flexion & Hip Extension",
+              "Walk Out into Push-Up Position (Do Push-Up)",
+              "Intergrading Form: Is my Shoulders inline with Palms?",
+              "Core Tight, Glutes Tight,",
+              "Downward Dog: Extension, Do they Lack Shoulder Flexion, Looking to Drive Heels into the ground (Hamstring, Heel Stretch, Flexibility)",
+              "Lift back Leg into the Air (huge Hamstring Stretch) then drive Leg Straight Through"
+            ],
+            "sourceNotes": [
+              "Heal is the spelling on the card and in program.json."
+            ],
+            "id": "warmup-mobility-9"
           },
           {
-            "name": "Lateral Fencer Lunge"
+            "name": "Lateral Fencer Lunge",
+            "benefits": [
+              "Increase Adductor (Groin), Hamstring and Hip Mobility",
+              "Increasing lateral stability, abduction and adduction abilities (Hip joint Capsule)",
+              "Improving the elasticity and strength of connective tissue and muscles across hip region"
+            ],
+            "id": "warmup-mobility-10"
           },
           {
-            "name": "Front Lunge, Twist and Reach, Twist back in front to Hold"
+            "name": "Front Lunge, Twist and Reach, Twist back in front to Hold",
+            "benefits": [
+              "Works on T-Spine in the Transverse Movement",
+              "Iliotibial Band (IT Band) Extensibility",
+              "Increases dynamic stability and stretches the hip flexor, quadriceps and"
+            ],
+            "id": "warmup-mobility-11"
           },
           {
-            "name": "Standing Single Leg Sit and Reach"
+            "name": "Standing Single Leg Sit and Reach",
+            "benefits": [
+              "Dynamic Deep Piriformis Hip Stretch",
+              "Postistal Capsule (Hip Joint Capsule)",
+              "Single Leg Dynamic Stability in the Foot, Ankle, Knee and Hip"
+            ],
+            "sourceNotes": [
+              "Card reads “Postistal Capsule” (likely posterior); transcribed as written."
+            ],
+            "id": "warmup-mobility-12"
           },
           {
-            "name": "Dynamic Straight Leg Hip Circles High Kicks"
+            "name": "Dynamic Straight Leg Hip Circles High Kicks",
+            "benefits": [
+              "Dynamic hamstring Extension",
+              "Hip Mobility"
+            ],
+            "id": "warmup-mobility-13"
           },
           {
-            "name": "Straight Leg High Kicks"
+            "name": "Straight Leg High Kicks",
+            "benefits": [
+              "Dynamic Hamstring Extension"
+            ],
+            "id": "warmup-mobility-14"
           }
         ],
         "sourceNotes": [
@@ -87,82 +472,197 @@
         "instructions": "Choose between 6 and 8",
         "exercises": [
           {
-            "name": "Body Fold"
+            "name": "Body Fold",
+            "benefits": [
+              "Improves spinal flexibility"
+            ],
+            "id": "warmup-dynamic-1"
           },
           {
-            "name": "Cat Cow"
+            "name": "Cat Cow",
+            "benefits": [
+              "Improves spinal flexibility",
+              "Stretches the muscles of the hips, back, abdomen and chest"
+            ],
+            "id": "warmup-dynamic-2"
           },
           {
-            "name": "Quadruped Thoracic Spine Rotation"
+            "name": "Quadruped Thoracic Spine Rotation",
+            "benefits": [
+              "The thoracic spine should be able to bend, flex, extend and rotate to varying degrees"
+            ],
+            "id": "warmup-dynamic-3"
           },
           {
-            "name": "Plank Pike"
+            "name": "Plank Pike",
+            "benefits": [
+              "Stability and mobility in the spine, shoulders and hip region"
+            ],
+            "id": "warmup-dynamic-4"
           },
           {
-            "name": "Straight Arm Plank Pike"
+            "name": "Straight Arm Plank Pike",
+            "benefits": [
+              "Stability and mobility in the spine, shoulders and hip region along with calf muscle"
+            ],
+            "id": "warmup-dynamic-5"
           },
           {
-            "name": "Calf March"
+            "name": "Calf March",
+            "benefits": [
+              "Mobility in the ankle, calf and hamstring"
+            ],
+            "id": "warmup-dynamic-6"
           },
           {
-            "name": "Straight Arm Pike and Single Leg Kick"
+            "name": "Straight Arm Pike and Single Leg Kick",
+            "benefits": [
+              "Hamstring, heel and calf stretch"
+            ],
+            "id": "warmup-dynamic-7"
           },
           {
-            "name": "Child Pose and Cobra with Side Reach"
+            "name": "Child Pose and Cobra with Side Reach",
+            "benefits": [
+              "Child’s pose stretches the lower back, shoulders, hips and ankles",
+              "Cobra stretches muscles in the shoulders, chest and abdominals"
+            ],
+            "id": "warmup-dynamic-8"
           },
           {
-            "name": "Hip Rock Series"
+            "name": "Hip Rock Series",
+            "benefits": [
+              "Lateral rock front to back dynamically stretches the groin and hamstring",
+              "Lateral toe rotation improves mobility in the hip & groin area, ball and socket",
+              "Front toe rotation improves him mobility in the hip and groin area",
+              "Front hip hinge dynamic hamstring stretch"
+            ],
+            "sourceNotes": [
+              "Card reads “improves him mobility”; transcribed as written."
+            ],
+            "id": "warmup-dynamic-9"
           },
           {
-            "name": "Tactical Frog w/ Internal Hip Rotation"
+            "name": "Tactical Frog w/ Internal Hip Rotation",
+            "benefits": [
+              "Mobilizes hip capsules, adductors, and hamstrings as well as internal active rotation of the hips"
+            ],
+            "id": "warmup-dynamic-10"
           },
           {
-            "name": "Forward and Backwards Leg Circles"
+            "name": "Forward and Backwards Leg Circles",
+            "benefits": [
+              "Mobilizes hip capsules and involves core and torso control"
+            ],
+            "id": "warmup-dynamic-11"
           },
           {
-            "name": "Half Knee and Straight Leg Raises"
+            "name": "Half Knee and Straight Leg Raises",
+            "benefits": [
+              "Hip control, activation and strength"
+            ],
+            "id": "warmup-dynamic-12"
           },
           {
-            "name": "Straight Leg Backward Sweeps"
+            "name": "Straight Leg Backward Sweeps",
+            "benefits": [
+              "Hip and QL stretch"
+            ],
+            "id": "warmup-dynamic-13"
           },
           {
-            "name": "Side plank Reach Overs"
+            "name": "Side plank Reach Overs",
+            "benefits": [
+              "Dynamic hip and latissimus dorsi stretch"
+            ],
+            "id": "warmup-dynamic-14"
           },
           {
-            "name": "Side Plank Straight Leg Raises"
+            "name": "Side Plank Straight Leg Raises",
+            "benefits": [
+              "Core activation and glute recruitment/activation"
+            ],
+            "id": "warmup-dynamic-15"
           },
           {
-            "name": "Glute Pump Prone Scorpion"
+            "name": "Glute Pump Prone Scorpion",
+            "benefits": [
+              "Glute activation, hip flexor stretch, back and spinal flexibility"
+            ],
+            "id": "warmup-dynamic-16"
           },
           {
-            "name": "Straight Leg Raises to Iron Cross"
+            "name": "Straight Leg Raises to Iron Cross",
+            "benefits": [
+              "Dynamic Hamstring and low back stretch"
+            ],
+            "id": "warmup-dynamic-17"
           },
           {
-            "name": "Ballistic hamstring kick and pull"
+            "name": "Ballistic hamstring kick and pull",
+            "benefits": [
+              "High hamstring stretch"
+            ],
+            "id": "warmup-dynamic-18"
           },
           {
-            "name": "Lying Forward and Backward Leg Circles"
+            "name": "Lying Forward and Backward Leg Circles",
+            "benefits": [
+              "Hip mobility and control"
+            ],
+            "id": "warmup-dynamic-19"
           },
           {
-            "name": "Lying Ballistic Hip Pulls"
+            "name": "Lying Ballistic Hip Pulls",
+            "benefits": [
+              "Dynamic piriformis and hip region stretch"
+            ],
+            "id": "warmup-dynamic-20"
           },
           {
-            "name": "Lying Dynamic Straight Leg Raises"
+            "name": "Lying Dynamic Straight Leg Raises",
+            "benefits": [
+              "Activates and increases hamstring mobility/flexibility"
+            ],
+            "id": "warmup-dynamic-21"
           },
           {
-            "name": "Side Lying Leg Raise (Top and Bottom Leg)"
+            "name": "Side Lying Leg Raise (Top and Bottom Leg)",
+            "benefits": [
+              "Activates glutes, adductors and hip region"
+            ],
+            "id": "warmup-dynamic-22"
           },
           {
-            "name": "Dynamic 90/90 Pulses"
+            "name": "Dynamic 90/90 Pulses",
+            "benefits": [
+              "Stretches glute/piriformis, QL quadratus lumborum"
+            ],
+            "sourceNotes": [
+              "The card was read as “Pluses”. Selectable text and program.json say “Pulses”. Marked [unclear] for that one letter."
+            ],
+            "id": "warmup-dynamic-23"
           },
           {
-            "name": "Knee Fall Ins"
+            "name": "Knee Fall Ins",
+            "benefits": [
+              "Outside hip region stretch"
+            ],
+            "id": "warmup-dynamic-24"
           },
           {
-            "name": "Roll Back and Reach"
+            "name": "Roll Back and Reach",
+            "benefits": [
+              "Improves spinal flexibility, also dynamic groin and hamstring mobility"
+            ],
+            "id": "warmup-dynamic-25"
           },
           {
-            "name": "Hamstring Dynamic Hurdler"
+            "name": "Hamstring Dynamic Hurdler",
+            "benefits": [
+              "Dynamic hamstring stretch"
+            ],
+            "id": "warmup-dynamic-26"
           }
         ],
         "sourceNotes": []
@@ -253,6 +753,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-1-training-day-1-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_e20fae066f99",
+                        "src": "media/demos/pptx_e20fae066f99.mp4",
+                        "poster": "media/demos/pptx_e20fae066f99.jpg",
+                        "label": "Wall Push Dead Bug.gif"
+                      }
                     ]
                   },
                   {
@@ -270,7 +779,8 @@
                       "Strengthen Side Oblique’s",
                       "Improves Stabilization In The Core",
                       "Improves Mobility & Stability In The Hip"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -285,7 +795,8 @@
                       "Develops Lateral Glute Strength",
                       "Stabilizes Hips & Torso",
                       "Strengthen Side Oblique’s"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -303,7 +814,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Don’t Let The Weight Pull Up Down, Keep Opposite Side Oblique Tight.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-pre-core-A4"
                   }
                 ],
                 "note": "Activating your core prior to training stimulates those deep intrinsic muscles that engage and stabilize. This increases your ability to control the loads/weights during exercise! This will greatly increase your speed and explosive power output, reducing your chances of injury!",
@@ -352,7 +864,8 @@
                     ],
                     "tempo": "5 Second Eccentric Lowering",
                     "rom": "Sports Specific or Just Below 90 Degrees",
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-1-training-day-1-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -376,7 +889,8 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-1-training-day-1-a-block-A2"
                   },
                   {
                     "order": "A3",
@@ -401,7 +915,16 @@
                       "label": "Use 30-40% of A1"
                     },
                     "tempo": "Fast (From Low Position)",
-                    "rom": "(Deep Position) Low Jumps"
+                    "rom": "(Deep Position) Low Jumps",
+                    "id": "phase-1-training-day-1-a-block-A3",
+                    "demos": [
+                      {
+                        "id": "api_137cc3709557",
+                        "src": "media/demos/api_137cc3709557.mp4",
+                        "poster": "media/demos/api_137cc3709557.jpg",
+                        "label": "DB Acceleration Squat Jumps.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "A4",
@@ -422,7 +945,8 @@
                     "column": "High Velocity",
                     "loadText": "Band Assisted “Reactive” Jumps",
                     "tempo": "Fast (Quarter Squat Position)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-1-training-day-1-a-block-A4"
                   }
                 ],
                 "rest": {
@@ -468,7 +992,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Don’t Bent Stabilized Arm.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -486,7 +1011,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF spells this “Chess Pass.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-1-B2"
                   },
                   {
                     "order": "B3",
@@ -505,7 +1031,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Frist Step.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-1-B3"
                   },
                   {
                     "order": "B4",
@@ -522,7 +1049,8 @@
                       "Improves Posture And Spine Stability",
                       "Develops Strong Lower Back And Core",
                       "Increases Shoulder & Scapula Strength"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-1-B4"
                   }
                 ],
                 "rest": {
@@ -563,7 +1091,8 @@
                       "Develop Glute & Hamstring Strength To Maximize Speed & Acceleration",
                       "Improve Core And Hip Complex For Added Stabilization And Stability",
                       "Develops Lower Back Strength And Spine Stability"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -582,7 +1111,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Ailment At Top.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-2-C2"
                   },
                   {
                     "order": "C3",
@@ -597,7 +1127,8 @@
                       "Helps Reduce Groin Strains",
                       "Develops Stronger Core",
                       "Improves Cutting-Agility"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-2-C3"
                   }
                 ],
                 "rest": {
@@ -638,7 +1169,8 @@
                     "benefits": [
                       "Develops Tremendous Functional Upper Body Strength",
                       "Helps Integrate The Core And Upper Body"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -655,7 +1187,8 @@
                       "Improves Hip Flexor Strength",
                       "Stabilizes The Core And Hips",
                       "Strengths Hip Complex"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-1-block-3-D2"
                   }
                 ],
                 "rest": {
@@ -735,6 +1268,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-1-training-day-2-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_e20fae066f99",
+                        "src": "media/demos/pptx_e20fae066f99.mp4",
+                        "poster": "media/demos/pptx_e20fae066f99.jpg",
+                        "label": "Wall Push Dead Bug.gif"
+                      }
                     ]
                   },
                   {
@@ -750,7 +1292,8 @@
                       "Strengthen Hip Control",
                       "Improves Stabilization",
                       "Reduces Groin Strains"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -766,7 +1309,8 @@
                       "Develops Lateral Glute Strength",
                       "Stabilizes Hips & Torso",
                       "Strengthen Oblique’s"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -783,7 +1327,8 @@
                       "Stabilizes Hips and Torso",
                       "Improves Deceleration",
                       "Strengthen Core"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-pre-core-A4"
                   }
                 ]
               },
@@ -843,7 +1388,8 @@
                       "2": "3-4 Reps Total Each Set",
                       "3": "2-3 Reps Total Each Set"
                     },
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-1-training-day-2-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -863,7 +1409,8 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-1-training-day-2-a-block-A2"
                   },
                   {
                     "order": "A3",
@@ -885,7 +1432,8 @@
                     "loadText": "Enough Weight You Can Catch & Control",
                     "tempo": "Quick Reaction",
                     "rom": "Start at Shoulder Level. Drop and Catch As Quick as Possible",
-                    "duringRest": true
+                    "duringRest": true,
+                    "id": "phase-1-training-day-2-a-block-A3"
                   },
                   {
                     "order": "A4",
@@ -906,7 +1454,8 @@
                     "loadText": "Enough Weight You Can Do For Reps Outlined",
                     "tempo": "2-3 Seconds Between Rotation",
                     "rom": "Place DB in Front of you with straight arms",
-                    "duringRest": true
+                    "duringRest": true,
+                    "id": "phase-1-training-day-2-a-block-A4"
                   }
                 ],
                 "rest": {
@@ -950,7 +1499,8 @@
                       "Increased Muscular Endurance",
                       "Increased Aerobic Capacity",
                       "Increased Anaerobic Capacity"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -966,7 +1516,8 @@
                     "benefits": [
                       "Most Sports are played on a single leg",
                       "Develops a tremendous amount balance, stability and Power"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-1-B2"
                   },
                   {
                     "order": "B3",
@@ -980,7 +1531,8 @@
                     "benefits": [
                       "Develops Stronger Upper Back And Grip Strength",
                       "Helps Create Faster Arm Action When Sprinting"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-1-B3"
                   }
                 ],
                 "rest": {
@@ -1016,7 +1568,8 @@
                       "When Block 1 is complete, do a body weight isometric split stance squat on both sides for as long as you can! Record the time on both sides and try to break it next week!"
                     ],
                     "benefits": [],
-                    "hold": true
+                    "hold": true,
+                    "id": "phase-1-training-day-2-holds-x"
                   },
                   {
                     "order": "",
@@ -1027,7 +1580,8 @@
                       "After you complete the body weight isometric split stance squat then you will hold a isometric body weight locked out pull-up hold for as long as possible! Record the time and try to break it next week!"
                     ],
                     "benefits": [],
-                    "hold": true
+                    "hold": true,
+                    "id": "phase-1-training-day-2-holds-x"
                   }
                 ]
               },
@@ -1050,7 +1604,8 @@
                       "Improves Posture And Spine Stability",
                       "Develops Strong Lower Back And Core",
                       "Develops Glute And Hamstring Strength"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -1067,7 +1622,8 @@
                       "Activates & Increases Glute Complex Firing",
                       "Stabilizes Pelvis And Will Reduce Stress From Low Back Due To Greater Glute Engagement",
                       "Increase Power Production = Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-2-C2"
                   },
                   {
                     "order": "C3",
@@ -1082,7 +1638,8 @@
                     "benefits": [
                       "Increases Hip, Core strength",
                       "Increases Side Oblique & Groin Strength"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-2-C3"
                   }
                 ],
                 "rest": {
@@ -1124,7 +1681,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Write Aphabet Per Side.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -1143,7 +1701,8 @@
                     ],
                     "sourceNotes": [
                       "The reps cell prints “Aphabet.” The coaching point prints “Alphabet.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-2-block-3-D2"
                   }
                 ],
                 "rest": {
@@ -1222,7 +1781,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning to Synergistically Breath & Brace with Load"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -1240,7 +1800,8 @@
                       "Increases hip control",
                       "Most Sports are played on a single leg",
                       "Develops a tremendous amount balance, stability and power"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -1255,7 +1816,8 @@
                       "Develops Lateral Glute Strength",
                       "Stabilizes Hips and Torso",
                       "Strengthen Side Oblique’s"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -1270,7 +1832,8 @@
                       "Stabilizes Hips and Torso",
                       "Improves Deceleration",
                       "Strengthen Side Oblique’s"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-pre-core-A4"
                   }
                 ]
               },
@@ -1321,7 +1884,8 @@
                     "maxKey": "Barbell Split Squat",
                     "sourceNotes": [
                       "The A-block load row prints effort (7.5/10, 7.5/10, 8.0/10). The Day 3 schedule page prints Week 1: 75% of 1 Rep Max or 3 Rep Max, Week 2: 75%, Week 3: 78.5%. Both are shown. This page does not convert one into the other."
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -1341,7 +1905,8 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-1-training-day-3-a-block-A2"
                   },
                   {
                     "order": "A3",
@@ -1363,7 +1928,8 @@
                     "duringRest": true,
                     "sourceNotes": [
                       "The PDF prints “Keep Thumps Up.” The demo line on this row prints “Click For Demp.”"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-a-block-A3"
                   },
                   {
                     "order": "A4",
@@ -1383,7 +1949,8 @@
                     "loadText": "Mini Band",
                     "tempo": "Full Control Through All Ranges Of Movement",
                     "rom": "Full ROM",
-                    "duringRest": true
+                    "duringRest": true,
+                    "id": "phase-1-training-day-3-a-block-A4"
                   }
                 ],
                 "rest": {
@@ -1426,7 +1993,8 @@
                     "benefits": [
                       "Develop Powerful Hips & Glutes To Maximize Jumping And Sprinting",
                       "Increase Flexibility In The Hamstrings"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -1446,7 +2014,8 @@
                     "variations": [
                       "Single Leg Pistol Squat",
                       "Box Squat"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-1-B2"
                   },
                   {
                     "order": "B3",
@@ -1462,7 +2031,8 @@
                     "benefits": [
                       "Increases Functional Strength",
                       "Increases Shoulder Stability & Stabilization"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-1-B3"
                   }
                 ],
                 "rest": {
@@ -1501,7 +2071,8 @@
                     "benefits": [
                       "Increases Functional Strength And Develops A Tremendous Amount Of Balance, Stability And Power",
                       "Increases Shoulder Stability & Stabilization"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -1519,7 +2090,8 @@
                     ],
                     "sourceNotes": [
                       "The sets cell on this row is blank in the PDF. Reps print as 12x per side. The other Block 2 rows on the page print 3 sets. That number is not printed on this row."
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-2-C2"
                   },
                   {
                     "order": "C3",
@@ -1537,7 +2109,8 @@
                       "Activates & Increases Glute Complex Firing",
                       "Stabilizes Pelvis And Will Reduce Stress From Low Back Due To Greater Glute Engagement",
                       "Increase Power Production = Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-2-C3"
                   }
                 ],
                 "rest": {
@@ -1577,7 +2150,8 @@
                     "benefits": [
                       "Increases Power & Stabilization For Jumping And Sprinting",
                       "Helps Reduce Ankle Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-training-day-3-block-3-D1"
                   }
                 ],
                 "rest": {
@@ -1676,7 +2250,8 @@
                     ],
                     "benefits": [
                       "Breaks Down Muscle Adhesions (Lumps & Knots) To Reduce Tension And Restore Muscle Length To Help Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -1690,7 +2265,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -1707,7 +2283,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Injures.”"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -1721,7 +2298,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A4"
                   },
                   {
                     "order": "A5",
@@ -1736,7 +2314,8 @@
                       "Activates Glute Muscles",
                       "Stabilizes The Hips And Low Back",
                       "Improves Your Ability To Generate Power To Run Faster And Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A5"
                   },
                   {
                     "order": "A6",
@@ -1750,7 +2329,8 @@
                     "benefits": [
                       "Increases Hip Flexor Strength & Resilience",
                       "Core And Hip Stability"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A6"
                   },
                   {
                     "order": "A7",
@@ -1765,7 +2345,8 @@
                       "Opens Up The Hips",
                       "Increases Range Of Motion In Ankle",
                       "Allows For More Range Of Motion Which Can Help With Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A7"
                   },
                   {
                     "order": "A8",
@@ -1780,7 +2361,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-pre-core-A8"
                   }
                 ],
                 "note": "During this deload phase we focus on form and technique! This is a great time to clean up form and technique on your main compound lifts! We also do a Circuit Series training to keep the workouts intense (20-30 minutes long) but just enough to get a great stimulus and not overwork the nervous system!"
@@ -1814,7 +2396,8 @@
                       "high": 60,
                       "label": "50-60%"
                     },
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-1-deload-day-1-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -1834,7 +2417,8 @@
                     "variations": [
                       "Tuck Jump",
                       "Hurdle Jump"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-1-a-block-A2"
                   },
                   {
                     "order": "B1",
@@ -1851,7 +2435,8 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-1-a-block-B1"
                   },
                   {
                     "order": "B2",
@@ -1868,7 +2453,8 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-1-a-block-B2"
                   },
                   {
                     "order": "B3",
@@ -1885,7 +2471,8 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-1-a-block-B3"
                   },
                   {
                     "order": "B4",
@@ -1905,7 +2492,8 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-1-a-block-B4"
                   },
                   {
                     "order": "B5",
@@ -1924,7 +2512,8 @@
                         120,
                         180
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-1-a-block-B5"
                   }
                 ],
                 "rest": {
@@ -1983,7 +2572,8 @@
                     ],
                     "benefits": [
                       "Breaks Down Muscle Adhesions (Lumps & Knots) To Reduce Tension And Restore Muscle Length To Help Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -1997,7 +2587,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -2015,7 +2606,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Keep Tension On The Bands Are All Times.”"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -2030,7 +2622,8 @@
                     "benefits": [
                       "Develops Tremendous Upper Body Strength",
                       "Helps Integrate The Core And Upper Body"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A4"
                   },
                   {
                     "order": "A5",
@@ -2045,7 +2638,8 @@
                     "benefits": [
                       "Develop Lower Body Strength And Power",
                       "Increase Power Production = Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A5"
                   },
                   {
                     "order": "A6",
@@ -2061,7 +2655,8 @@
                     "benefits": [
                       "Reduces Hamstring Pulls, Strains",
                       "Increases Hip Control"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A6"
                   },
                   {
                     "order": "A7",
@@ -2077,7 +2672,8 @@
                       "Improves Core Stability & Takes Stress Off Back",
                       "Improves & Stabilizes Hips And Torso",
                       "Strengthens Deep Core Transverse Abdominals"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A7"
                   },
                   {
                     "order": "A8",
@@ -2091,7 +2687,8 @@
                     "benefits": [
                       "Increases Wrist And Forearm Strength",
                       "Increases Grip Strength"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-pre-core-A8"
                   }
                 ],
                 "note": "During this deload phase we focus on form and technique! This is a great time to clean up form and technique on your main compound lifts! We also do a Circuit Series training to keep the workouts intense (20-30 minutes long) but just enough to get a great stimulus and not overwork the nervous system!"
@@ -2122,7 +2719,8 @@
                       "high": 60,
                       "label": "50-60%"
                     },
-                    "maxKey": "Barbell Bench Press"
+                    "maxKey": "Barbell Bench Press",
+                    "id": "phase-1-deload-day-2-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -2136,7 +2734,8 @@
                     "benefits": [
                       "Increases force production",
                       "Increase reactive ability"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-2-a-block-A2"
                   },
                   {
                     "order": "B1",
@@ -2154,7 +2753,8 @@
                         60,
                         15
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-2-a-block-B1"
                   },
                   {
                     "order": "B2",
@@ -2172,7 +2772,8 @@
                         60,
                         15
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-2-a-block-B2"
                   },
                   {
                     "order": "B3",
@@ -2190,7 +2791,8 @@
                         60,
                         15
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-2-a-block-B3"
                   },
                   {
                     "order": "B4",
@@ -2208,7 +2810,8 @@
                         60,
                         15
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-2-a-block-B4"
                   },
                   {
                     "order": "B5",
@@ -2227,7 +2830,8 @@
                         60,
                         15
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-2-a-block-B5"
                   }
                 ],
                 "rest": {
@@ -2285,7 +2889,8 @@
                     ],
                     "benefits": [
                       "Breaks Down Muscle Adhesions (Lumps & Knots) To Reduce Tension And Restore Muscle Length Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -2299,7 +2904,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -2313,7 +2919,8 @@
                     "benefits": [
                       "Increases Range Of Motion In Ankle",
                       "Increases Mobility In Ankle Which Can Help With Reducing Injures"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -2327,7 +2934,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A4"
                   },
                   {
                     "order": "A5",
@@ -2344,7 +2952,8 @@
                     ],
                     "sourceNotes": [
                       "This activation row prints 3 sets. Several other activation rows on the day print 1 set."
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A5"
                   },
                   {
                     "order": "A6",
@@ -2359,7 +2968,8 @@
                     "benefits": [
                       "Increases Hip Flexor Strength & Resilience",
                       "Core And Hip Stability"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A6"
                   },
                   {
                     "order": "A7",
@@ -2377,7 +2987,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Make Elbows Don’t Drop Lower Then The Knees.”"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A7"
                   },
                   {
                     "order": "A8",
@@ -2392,7 +3003,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-pre-core-A8"
                   }
                 ]
               },
@@ -2422,7 +3034,8 @@
                       "high": 60,
                       "label": "50-60%"
                     },
-                    "maxKey": "Barbell Split Squat"
+                    "maxKey": "Barbell Split Squat",
+                    "id": "phase-1-deload-day-3-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -2438,7 +3051,8 @@
                       "Increase Ground Reaction",
                       "Increase Fast Twitch Muscle Fibers",
                       "Increase Power Production"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-a-block-A2"
                   },
                   {
                     "order": "B1",
@@ -2454,7 +3068,8 @@
                       "presets": [
                         90
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-3-a-block-B1"
                   },
                   {
                     "order": "B2",
@@ -2470,7 +3085,8 @@
                       "presets": [
                         90
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-3-a-block-B2"
                   },
                   {
                     "order": "B3",
@@ -2486,7 +3102,8 @@
                       "presets": [
                         90
                       ]
-                    }
+                    },
+                    "id": "phase-1-deload-day-3-a-block-B3"
                   },
                   {
                     "order": "B4",
@@ -2499,7 +3116,8 @@
                     "benefits": [],
                     "sourceNotes": [
                       "The PDF prints “Finsihed.”"
-                    ]
+                    ],
+                    "id": "phase-1-deload-day-3-a-block-B4"
                   }
                 ],
                 "rest": {
@@ -2614,6 +3232,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-2-training-day-1-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "api_259bd2b3fad5",
+                        "src": "media/demos/api_259bd2b3fad5.mp4",
+                        "poster": "media/demos/api_259bd2b3fad5.jpg",
+                        "label": "Band Resisted Dead Bugs.gif"
+                      }
                     ]
                   },
                   {
@@ -2628,6 +3255,15 @@
                     "benefits": [
                       "Increases Functional Strength",
                       "Increases Shoulder & Core Stability/Stabilization"
+                    ],
+                    "id": "phase-2-training-day-1-pre-core-A2",
+                    "demos": [
+                      {
+                        "id": "api_cda54bb43beb",
+                        "src": "media/demos/api_cda54bb43beb.mp4",
+                        "poster": "media/demos/api_cda54bb43beb.jpg",
+                        "label": "Elevated Swiss Ball Sprinter Knee Switch.gif"
+                      }
                     ]
                   },
                   {
@@ -2642,6 +3278,15 @@
                     "benefits": [
                       "Develop Powerful Hips & Glutes To Maximize Jumping And Sprinting",
                       "Increase Flexibility In The Hamstrings"
+                    ],
+                    "id": "phase-2-training-day-1-pre-core-A3",
+                    "demos": [
+                      {
+                        "id": "api_30394a7eec29",
+                        "src": "media/demos/api_30394a7eec29.mp4",
+                        "poster": "media/demos/api_30394a7eec29.jpg",
+                        "label": "Band Spinter SL RDL to Row.gif"
+                      }
                     ]
                   },
                   {
@@ -2657,6 +3302,15 @@
                     "benefits": [
                       "Develop Shoulder Stabilization & Upper Back Strength",
                       "Develops Greater Shoulder Control"
+                    ],
+                    "id": "phase-2-training-day-1-pre-core-A4",
+                    "demos": [
+                      {
+                        "id": "api_ef6c6ad37be2",
+                        "src": "media/demos/api_ef6c6ad37be2.mp4",
+                        "poster": "media/demos/api_ef6c6ad37be2.jpg",
+                        "label": "Incline Bench Prone Cobra Raise.gif"
+                      }
                     ]
                   }
                 ],
@@ -2703,7 +3357,16 @@
                     ],
                     "tempo": "3-5 Second Isometric Pause Just Above Chest",
                     "rom": "Full Range Of Motion",
-                    "maxKey": "Barbell Bench Press"
+                    "maxKey": "Barbell Bench Press",
+                    "id": "phase-2-training-day-1-a-block-A1",
+                    "demos": [
+                      {
+                        "id": "api_90e2e342a318",
+                        "src": "media/demos/api_90e2e342a318.mp4",
+                        "poster": "media/demos/api_90e2e342a318.jpg",
+                        "label": "Barbell Bench Press.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "A2",
@@ -2725,6 +3388,15 @@
                     "rom": "Full Range Of Motion",
                     "sourceNotes": [
                       "The benefits cell prints “Explosives Power.”"
+                    ],
+                    "id": "phase-2-training-day-1-a-block-A2",
+                    "demos": [
+                      {
+                        "id": "api_926bb6c6f2a5",
+                        "src": "media/demos/api_926bb6c6f2a5.mp4",
+                        "poster": "media/demos/api_926bb6c6f2a5.jpg",
+                        "label": "Med Ball Chest Pass.gif"
+                      }
                     ]
                   },
                   {
@@ -2750,7 +3422,8 @@
                       "label": "Use 30-40% of A1"
                     },
                     "tempo": "Fast & Reactive",
-                    "rom": "Full Range Of Motion"
+                    "rom": "Full Range Of Motion",
+                    "id": "phase-2-training-day-1-a-block-A3"
                   },
                   {
                     "order": "A4",
@@ -2772,7 +3445,16 @@
                     "column": "High Velocity (Speed)",
                     "loadText": "Band Assisted “Reactive” Push-Ups",
                     "tempo": "Fast & Reactive",
-                    "rom": "Full Range Of Motion"
+                    "rom": "Full Range Of Motion",
+                    "id": "phase-2-training-day-1-a-block-A4",
+                    "demos": [
+                      {
+                        "id": "api_7299b724eaba",
+                        "src": "media/demos/api_7299b724eaba.mp4",
+                        "poster": "media/demos/api_7299b724eaba.jpg",
+                        "label": "Band Assisted Push Up.gif"
+                      }
+                    ]
                   }
                 ],
                 "rest": {
@@ -2814,6 +3496,15 @@
                       "Develop First Step Explosiveness",
                       "Increases Functional Strength & Coordination",
                       "Increases Shoulder Stability & Stabilization"
+                    ],
+                    "id": "phase-2-training-day-1-block-1-B1",
+                    "demos": [
+                      {
+                        "id": "api_0ea38480a9ea",
+                        "src": "media/demos/api_0ea38480a9ea.mp4",
+                        "poster": "media/demos/api_0ea38480a9ea.jpg",
+                        "label": "Explosive Sprinter First Step Snatch.gif"
+                      }
                     ]
                   },
                   {
@@ -2829,6 +3520,15 @@
                     "benefits": [
                       "Increases Force Production",
                       "Increase Reactive Ability"
+                    ],
+                    "id": "phase-2-training-day-1-block-1-B2",
+                    "demos": [
+                      {
+                        "id": "api_f7a807e1f493",
+                        "src": "media/demos/api_f7a807e1f493.mp4",
+                        "poster": "media/demos/api_f7a807e1f493.jpg",
+                        "label": "Split Stance Switch Band Row.gif"
+                      }
                     ]
                   },
                   {
@@ -2847,6 +3547,15 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Rip Cage” and “Keep Feet Of The Ground.”"
+                    ],
+                    "id": "phase-2-training-day-1-block-1-B3",
+                    "demos": [
+                      {
+                        "id": "api_183787a2585d",
+                        "src": "media/demos/api_183787a2585d.mp4",
+                        "poster": "media/demos/api_183787a2585d.jpg",
+                        "label": "Med Ball Russian Twist and Throw.gif"
+                      }
                     ]
                   }
                 ],
@@ -2892,6 +3601,15 @@
                     ],
                     "sourceNotes": [
                       "The reps column prints “Pre” on one line and “Side” on the next. Other rows print “Per Side.”"
+                    ],
+                    "id": "phase-2-training-day-1-block-2-C1",
+                    "demos": [
+                      {
+                        "id": "api_cc7f446bd199",
+                        "src": "media/demos/api_cc7f446bd199.mp4",
+                        "poster": "media/demos/api_cc7f446bd199.jpg",
+                        "label": "Band Single Arm Floor Press w ISO Sprinter Knee Drive.gif"
+                      }
                     ]
                   },
                   {
@@ -2911,6 +3629,15 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Core Are Squeeze.”"
+                    ],
+                    "id": "phase-2-training-day-1-block-2-C2",
+                    "demos": [
+                      {
+                        "id": "api_ee0e113d32bd",
+                        "src": "media/demos/api_ee0e113d32bd.mp4",
+                        "poster": "media/demos/api_ee0e113d32bd.jpg",
+                        "label": "Elevated Suspension Sprinter Row.gif"
+                      }
                     ]
                   }
                 ],
@@ -2951,6 +3678,15 @@
                     "benefits": [
                       "Develops Tremendous Functional Upper Body Strength",
                       "Helps Integrate The Core And Upper Body"
+                    ],
+                    "id": "phase-2-training-day-1-block-3-D1",
+                    "demos": [
+                      {
+                        "id": "api_d715ce9745d5",
+                        "src": "media/demos/api_d715ce9745d5.mp4",
+                        "poster": "media/demos/api_d715ce9745d5.jpg",
+                        "label": "DB Push Up to T Rotation Press.gif"
+                      }
                     ]
                   },
                   {
@@ -2965,6 +3701,15 @@
                     "benefits": [
                       "Increases Grip And Forearm Strength",
                       "Increases Functional Core Strength"
+                    ],
+                    "id": "phase-2-training-day-1-block-3-D2",
+                    "demos": [
+                      {
+                        "id": "api_60520b59764d",
+                        "src": "media/demos/api_60520b59764d.mp4",
+                        "poster": "media/demos/api_60520b59764d.jpg",
+                        "label": "Suspension Side Isolation Bicep Curl.gif"
+                      }
                     ]
                   }
                 ],
@@ -3047,6 +3792,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-2-training-day-2-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_e20fae066f99",
+                        "src": "media/demos/pptx_e20fae066f99.mp4",
+                        "poster": "media/demos/pptx_e20fae066f99.jpg",
+                        "label": "Wall Push Dead Bug.gif"
+                      }
                     ]
                   },
                   {
@@ -3061,7 +3815,8 @@
                     ],
                     "benefits": [
                       "Increases Mobility Which Can Significantly Improve Your Athleticism And Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-2-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -3078,6 +3833,15 @@
                     ],
                     "sourceNotes": [
                       "This row prints 3 sets. The other pre-core rows on the page print 1 set. The cue prints “Keep Body In A Straight Like.” The benefit prints “Develops Lower By Power.”"
+                    ],
+                    "id": "phase-2-training-day-2-pre-core-A3",
+                    "demos": [
+                      {
+                        "id": "api_07cb0a254978",
+                        "src": "media/demos/api_07cb0a254978.mp4",
+                        "poster": "media/demos/api_07cb0a254978.jpg",
+                        "label": "Mini Band Side Plank Glute Abduction.gif"
+                      }
                     ]
                   },
                   {
@@ -3097,6 +3861,15 @@
                       "Improves Deceleration",
                       "Improves Landing & Proper Posture",
                       "Allows For Greater Reaction"
+                    ],
+                    "id": "phase-2-training-day-2-pre-core-A4",
+                    "demos": [
+                      {
+                        "id": "pptx_d5e67d0382e1",
+                        "src": "media/demos/pptx_d5e67d0382e1.mp4",
+                        "poster": "media/demos/pptx_d5e67d0382e1.jpg",
+                        "label": "Mini Band Snap Down Jump.gif"
+                      }
                     ]
                   }
                 ],
@@ -3145,7 +3918,8 @@
                     ],
                     "tempo": "3-5 Second Isometric Hold",
                     "rom": "Sports Specific Or Just Below 90 Degrees",
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-2-training-day-2-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -3165,7 +3939,16 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-2-training-day-2-a-block-A2",
+                    "demos": [
+                      {
+                        "id": "api_02ec7ddf460e",
+                        "src": "media/demos/api_02ec7ddf460e.mp4",
+                        "poster": "media/demos/api_02ec7ddf460e.jpg",
+                        "label": "Hurdle Jump to Shuffle.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "A3",
@@ -3190,7 +3973,16 @@
                       "label": "Use 30-40% Of A1"
                     },
                     "tempo": "Fast (From Low Position)",
-                    "rom": "(Deep Position) Low Jumps"
+                    "rom": "(Deep Position) Low Jumps",
+                    "id": "phase-2-training-day-2-a-block-A3",
+                    "demos": [
+                      {
+                        "id": "api_137cc3709557",
+                        "src": "media/demos/api_137cc3709557.mp4",
+                        "poster": "media/demos/api_137cc3709557.jpg",
+                        "label": "DB Acceleration Squat Jumps.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "A4",
@@ -3213,7 +4005,8 @@
                     "rom": "Sports Specific",
                     "sourceNotes": [
                       "The exercise-choice cell names A4 “10 Yard Sprint.” The load row on the same page prints Band Assisted “Reactive” Jumps. The tempo cell prints Fast (Quarter Squat Position). Both wordings are from that page."
-                    ]
+                    ],
+                    "id": "phase-2-training-day-2-a-block-A4"
                   }
                 ],
                 "rest": {
@@ -3255,6 +4048,15 @@
                       "Increases Groin Functional Strength",
                       "Increases Single Leg/Shoulder Stability & Stabilization",
                       "Develops A Tremendous Amount Of Balance, Stability And Power"
+                    ],
+                    "id": "phase-2-training-day-2-block-1-B1",
+                    "demos": [
+                      {
+                        "id": "api_8e0169d0bdc4",
+                        "src": "media/demos/api_8e0169d0bdc4.mp4",
+                        "poster": "media/demos/api_8e0169d0bdc4.jpg",
+                        "label": "Single Arm Lateral Sprinter Side Lunge to Clean.gif"
+                      }
                     ]
                   },
                   {
@@ -3270,6 +4072,15 @@
                     "benefits": [
                       "Increases Force Production",
                       "Increase Reactive Ability"
+                    ],
+                    "id": "phase-2-training-day-2-block-1-B2",
+                    "demos": [
+                      {
+                        "id": "api_f3f7b912f0cd",
+                        "src": "media/demos/api_f3f7b912f0cd.mp4",
+                        "poster": "media/demos/api_f3f7b912f0cd.jpg",
+                        "label": "Explosive Sprinter Lateral Push Step.gif"
+                      }
                     ]
                   },
                   {
@@ -3286,6 +4097,15 @@
                       "Teaches The Body How To Brace Under Load",
                       "Improves & Stabilizes Hips And Torso",
                       "Strengthens Deep Core Transverse Abdominals"
+                    ],
+                    "id": "phase-2-training-day-2-block-1-B3",
+                    "demos": [
+                      {
+                        "id": "api_260f5dd0d281",
+                        "src": "media/demos/api_260f5dd0d281.mp4",
+                        "poster": "media/demos/api_260f5dd0d281.jpg",
+                        "label": "Barbell Landmine Roll To Side Rollouts.gif"
+                      }
                     ]
                   }
                 ],
@@ -3328,6 +4148,21 @@
                     ],
                     "sourceNotes": [
                       "The sets cell on this row is blank. Reps print as 6 per side."
+                    ],
+                    "id": "phase-2-training-day-2-block-2-C1",
+                    "demos": [
+                      {
+                        "id": "api_a1b6bd2c20e5",
+                        "src": "media/demos/api_a1b6bd2c20e5.mp4",
+                        "poster": "media/demos/api_a1b6bd2c20e5.jpg",
+                        "label": "Lunge Walks.gif"
+                      },
+                      {
+                        "id": "api_c87f4cba061c",
+                        "src": "media/demos/api_c87f4cba061c.mp4",
+                        "poster": "media/demos/api_c87f4cba061c.jpg",
+                        "label": "Single Arm Sprinter RDL.gif"
+                      }
                     ]
                   },
                   {
@@ -3345,6 +4180,15 @@
                       "Improves Posture And Hip, Core Stability",
                       "Develops Strong Lats For Sprinting",
                       "Increases Hip Flexor"
+                    ],
+                    "id": "phase-2-training-day-2-block-2-C2",
+                    "demos": [
+                      {
+                        "id": "api_f5a46ff5d272",
+                        "src": "media/demos/api_f5a46ff5d272.mp4",
+                        "poster": "media/demos/api_f5a46ff5d272.jpg",
+                        "label": "DB Sprinter Single Arm Row.gif"
+                      }
                     ]
                   }
                 ],
@@ -3386,6 +4230,15 @@
                     "benefits": [
                       "Increases Side Oblique & Groin Strength",
                       "Increases Hip Flexor & Core Strength"
+                    ],
+                    "id": "phase-2-training-day-2-block-3-D1",
+                    "demos": [
+                      {
+                        "id": "api_cbc49c5bc62b",
+                        "src": "media/demos/api_cbc49c5bc62b.mp4",
+                        "poster": "media/demos/api_cbc49c5bc62b.jpg",
+                        "label": "Side Plank Adductor Hold w Spinter Knee Drive.gif"
+                      }
                     ]
                   },
                   {
@@ -3403,6 +4256,15 @@
                       "Improves Core Stability & Takes Stress Off The Back",
                       "Stabilizes Hips And Torso",
                       "Strengthens Hip Flexors"
+                    ],
+                    "id": "phase-2-training-day-2-block-3-D2",
+                    "demos": [
+                      {
+                        "id": "api_91a86db06ca3",
+                        "src": "media/demos/api_91a86db06ca3.mp4",
+                        "poster": "media/demos/api_91a86db06ca3.jpg",
+                        "label": "Mini Band Core Spinter Sit-Ups.gif"
+                      }
                     ]
                   }
                 ],
@@ -3497,6 +4359,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-2-training-day-3-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "api_259bd2b3fad5",
+                        "src": "media/demos/api_259bd2b3fad5.mp4",
+                        "poster": "media/demos/api_259bd2b3fad5.jpg",
+                        "label": "Band Resisted Dead Bugs.gif"
+                      }
                     ]
                   },
                   {
@@ -3513,6 +4384,15 @@
                       "Develops Tremendous Upper Body Strength",
                       "Helps Integrate The Core And Upper Body",
                       "Increases Shoulder Stability & Stabilization"
+                    ],
+                    "id": "phase-2-training-day-3-pre-core-A2",
+                    "demos": [
+                      {
+                        "id": "pptx_0113f9023f03",
+                        "src": "media/demos/pptx_0113f9023f03.mp4",
+                        "poster": "media/demos/pptx_0113f9023f03.jpg",
+                        "label": "Mini Band Push-Up Around the World.gif"
+                      }
                     ]
                   },
                   {
@@ -3529,7 +4409,8 @@
                     "benefits": [
                       "Develop Shoulder Stabilization & Upper Back Strength",
                       "Develops Greater Shoulder Control"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-3-pre-core-A3"
                   }
                 ],
                 "note": "Activating your core prior to training stimulates those deep intrinsic muscles to engage and stabilize increasing your ability to control the loads/weights during exercise! This will greatly increase your speed and explosive power output reducing your chances of injury!"
@@ -3608,7 +4489,16 @@
                         ]
                       }
                     ],
-                    "maxKey": "Barbell Bench Press"
+                    "maxKey": "Barbell Bench Press",
+                    "id": "phase-2-training-day-3-a-block-A1",
+                    "demos": [
+                      {
+                        "id": "api_90e2e342a318",
+                        "src": "media/demos/api_90e2e342a318.mp4",
+                        "poster": "media/demos/api_90e2e342a318.jpg",
+                        "label": "Barbell Bench Press.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "A2",
@@ -3628,7 +4518,16 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-2-training-day-3-a-block-A2",
+                    "demos": [
+                      {
+                        "id": "api_926bb6c6f2a5",
+                        "src": "media/demos/api_926bb6c6f2a5.mp4",
+                        "poster": "media/demos/api_926bb6c6f2a5.jpg",
+                        "label": "Med Ball Chest Pass.gif"
+                      }
+                    ]
                   }
                 ],
                 "rest": {
@@ -3672,6 +4571,15 @@
                       "Improve Core And Hip Complex For Added Stabilization And Stability",
                       "Develop Explosive Overhead Arm Speed",
                       "Develops Coordination"
+                    ],
+                    "id": "phase-2-training-day-3-block-1-B1",
+                    "demos": [
+                      {
+                        "id": "api_ae6348fedcf8",
+                        "src": "media/demos/api_ae6348fedcf8.mp4",
+                        "poster": "media/demos/api_ae6348fedcf8.jpg",
+                        "label": "Barbell Sprinter Press (One Leg Switch).gif"
+                      }
                     ]
                   },
                   {
@@ -3688,6 +4596,15 @@
                     "benefits": [
                       "Improves Posture And Hip, Core Stability",
                       "Develops Strong Lats For Sprinting"
+                    ],
+                    "id": "phase-2-training-day-3-block-1-B2",
+                    "demos": [
+                      {
+                        "id": "api_79169ce5692b",
+                        "src": "media/demos/api_79169ce5692b.mp4",
+                        "poster": "media/demos/api_79169ce5692b.jpg",
+                        "label": "Barbell Bent Over Row.gif"
+                      }
                     ]
                   },
                   {
@@ -3702,6 +4619,15 @@
                     "benefits": [
                       "Develops Stronger Upper Back And Grip Strength",
                       "Helps Create Faster Arm Action When Sprinting"
+                    ],
+                    "id": "phase-2-training-day-3-block-1-B3",
+                    "demos": [
+                      {
+                        "id": "api_1708961ce7e3",
+                        "src": "media/demos/api_1708961ce7e3.mp4",
+                        "poster": "media/demos/api_1708961ce7e3.jpg",
+                        "label": "Isometric Pull Up.gif"
+                      }
                     ]
                   }
                 ],
@@ -3747,6 +4673,15 @@
                     ],
                     "sourceNotes": [
                       "The benefit line prints “Develops Build Tremendous Functional Upper Body Strength.”"
+                    ],
+                    "id": "phase-2-training-day-3-block-2-C1",
+                    "demos": [
+                      {
+                        "id": "api_327aecd87888",
+                        "src": "media/demos/api_327aecd87888.mp4",
+                        "poster": "media/demos/api_327aecd87888.jpg",
+                        "label": "Single Arm Stabilization Push Up.gif"
+                      }
                     ]
                   },
                   {
@@ -3764,6 +4699,15 @@
                       "Improves Posture And Spine Stability",
                       "Develops Strong Lower Back And Core",
                       "Increases Shoulder & Scapula Strength"
+                    ],
+                    "id": "phase-2-training-day-3-block-2-C2",
+                    "demos": [
+                      {
+                        "id": "api_925107e712f2",
+                        "src": "media/demos/api_925107e712f2.mp4",
+                        "poster": "media/demos/api_925107e712f2.jpg",
+                        "label": "Suspension Single Arm Row.gif"
+                      }
                     ]
                   }
                 ],
@@ -3804,6 +4748,33 @@
                     "benefits": [
                       "Improves Pulling Motion",
                       "Improves Throwing Motion"
+                    ],
+                    "id": "phase-2-training-day-3-block-3-D1",
+                    "demos": [
+                      {
+                        "id": "api_8df965f5a948",
+                        "src": "media/demos/api_8df965f5a948.mp4",
+                        "poster": "media/demos/api_8df965f5a948.jpg",
+                        "label": "Bicep Complex- Both Arm Bottom Half Motion.gif"
+                      },
+                      {
+                        "id": "api_3eaaa072db96",
+                        "src": "media/demos/api_3eaaa072db96.mp4",
+                        "poster": "media/demos/api_3eaaa072db96.jpg",
+                        "label": "Bicep Complex- Both Arm Top Half Motion.gif"
+                      },
+                      {
+                        "id": "api_769377d4fc8c",
+                        "src": "media/demos/api_769377d4fc8c.mp4",
+                        "poster": "media/demos/api_769377d4fc8c.jpg",
+                        "label": "Bicep Complex- Single Arm Full Motion.gif"
+                      },
+                      {
+                        "id": "api_cf2b16122917",
+                        "src": "media/demos/api_cf2b16122917.mp4",
+                        "poster": "media/demos/api_cf2b16122917.jpg",
+                        "label": "Bicep Complex-Both Arm Full Motion.gif"
+                      }
                     ]
                   },
                   {
@@ -3817,6 +4788,21 @@
                     ],
                     "benefits": [
                       "Helps Stabilize The Shoulder Joint At The Top Of The Humerus"
+                    ],
+                    "id": "phase-2-training-day-3-block-3-D2",
+                    "demos": [
+                      {
+                        "id": "api_19efeb92718b",
+                        "src": "media/demos/api_19efeb92718b.mp4",
+                        "poster": "media/demos/api_19efeb92718b.jpg",
+                        "label": "Tricep Complex- Both Arm.gif"
+                      },
+                      {
+                        "id": "api_1cfa26e3855e",
+                        "src": "media/demos/api_1cfa26e3855e.mp4",
+                        "poster": "media/demos/api_1cfa26e3855e.jpg",
+                        "label": "Tricep Complex- One Arm.gif"
+                      }
                     ]
                   }
                 ],
@@ -3858,6 +4844,27 @@
                     "benefits": [
                       "Develop Stronger Forearms And Wrist Strength",
                       "Create Crazy Grip Strength"
+                    ],
+                    "id": "phase-2-training-day-3-block-4-E1",
+                    "demos": [
+                      {
+                        "id": "api_b472875e9391",
+                        "src": "media/demos/api_b472875e9391.mp4",
+                        "poster": "media/demos/api_b472875e9391.jpg",
+                        "label": "Zig Zag Heavy Carry.gif"
+                      },
+                      {
+                        "id": "api_d1e2fc6e62df",
+                        "src": "media/demos/api_d1e2fc6e62df.mp4",
+                        "poster": "media/demos/api_d1e2fc6e62df.jpg",
+                        "label": "Zig Zag One Arm Carry.gif"
+                      },
+                      {
+                        "id": "api_1921d696594c",
+                        "src": "media/demos/api_1921d696594c.mp4",
+                        "poster": "media/demos/api_1921d696594c.jpg",
+                        "label": "Zig Zag Over Head Carry.gif"
+                      }
                     ]
                   }
                 ],
@@ -3942,6 +4949,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-2-training-day-4-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_e20fae066f99",
+                        "src": "media/demos/pptx_e20fae066f99.mp4",
+                        "poster": "media/demos/pptx_e20fae066f99.jpg",
+                        "label": "Wall Push Dead Bug.gif"
+                      }
                     ]
                   },
                   {
@@ -3956,7 +4972,8 @@
                     ],
                     "benefits": [
                       "Increases Mobility Which Can Significantly Improve Your Athleticism And Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -3972,6 +4989,15 @@
                     "benefits": [
                       "Glutes Engage",
                       "Stabilizes Hips And Knees"
+                    ],
+                    "id": "phase-2-training-day-4-pre-core-A3",
+                    "demos": [
+                      {
+                        "id": "pptx_7df67d99549d",
+                        "src": "media/demos/pptx_7df67d99549d.mp4",
+                        "poster": "media/demos/pptx_7df67d99549d.jpg",
+                        "label": "Mini Band Lateral Walk.gif"
+                      }
                     ]
                   },
                   {
@@ -3989,7 +5015,8 @@
                       "Stabilizes Hips And Torso",
                       "Improves Deceleration",
                       "Strengthen Core"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-pre-core-A4"
                   }
                 ]
               },
@@ -4069,7 +5096,19 @@
                         ]
                       }
                     ],
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-2-training-day-4-a-block-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_3e9efe952148",
+                        "src": "media/demos/pptx_3e9efe952148.mp4",
+                        "poster": "media/demos/pptx_3e9efe952148.jpg",
+                        "label": "Trap Bar Dead Lift.gif",
+                        "sourceNotes": [
+                          "Folder filename maps by hash to the Phase 2 Day 4 A-block GIF. program.json names that A1 “Back Squat OR Front Squat”. The folder name may be an alternate exercise shown in the demo; do not overwrite the program name."
+                        ]
+                      }
+                    ]
                   },
                   {
                     "order": "A2",
@@ -4089,7 +5128,16 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-2-training-day-4-a-block-A2",
+                    "demos": [
+                      {
+                        "id": "pptx_a79202358ed6",
+                        "src": "media/demos/pptx_a79202358ed6.mp4",
+                        "poster": "media/demos/pptx_a79202358ed6.jpg",
+                        "label": "Reactive Jump.gif"
+                      }
+                    ]
                   }
                 ],
                 "rest": {
@@ -4135,7 +5183,8 @@
                     ],
                     "sourceNotes": [
                       "Phase 2 Day 4 slide deck lists a Drive video titled “Single Leg Elevated Hip Thrust.mp4”. That video file is not in this source package."
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -4154,7 +5203,8 @@
                     ],
                     "sourceNotes": [
                       "Phase 2 Day 4 slide deck lists a Drive video titled “GHD Sit Up.mp4”. That video file is not in this source package."
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-1-B2"
                   },
                   {
                     "order": "B3",
@@ -4173,7 +5223,8 @@
                     ],
                     "sourceNotes": [
                       "Phase 2 Day 4 slide deck lists a Drive video titled “DB Bulg Squat.mp4”. That video file is not in this source package."
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-1-B3"
                   }
                 ],
                 "rest": {
@@ -4213,7 +5264,8 @@
                     "benefits": [
                       "Increased Power Production",
                       "Increased Muscular Endurance"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -4227,7 +5279,8 @@
                     "benefits": [
                       "Improves Core Stability",
                       "Strengthens Deep Core Transverse Abdominals"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-2-C2"
                   }
                 ],
                 "rest": {
@@ -4260,7 +5313,8 @@
                       "Develops Ankle, Knee, Hip Stabilization",
                       "Increases Body Control And Awareness",
                       "Creates Hip Flexor Strength"
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -4278,7 +5332,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Inuries.” The exercise name includes “1-15” and the reps cell is 1-15."
-                    ]
+                    ],
+                    "id": "phase-2-training-day-4-block-3-D2"
                   }
                 ],
                 "rest": {
@@ -4364,7 +5419,8 @@
                     ],
                     "benefits": [
                       "Breaks Down Muscle Adhesions (Lumps & Knots) To Reduce Tension And Restore Muscle Length To Help Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -4378,7 +5434,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -4392,7 +5449,8 @@
                     "benefits": [
                       "Increases Range Of Motion In Ankle",
                       "Increases Mobility In Ankle Which Can Help With Reducing Injures"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -4406,7 +5464,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A4"
                   },
                   {
                     "order": "A5",
@@ -4421,7 +5480,8 @@
                       "Activates Glute Muscles",
                       "Stabilizes The Hips And Low Back",
                       "Improving Your Ability To Generate Power To Run Faster And Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A5"
                   },
                   {
                     "order": "A6",
@@ -4435,7 +5495,8 @@
                     "benefits": [
                       "Increases Hip Flexor Strength & Resilience",
                       "Core And Hip Stability"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A6"
                   },
                   {
                     "order": "A7",
@@ -4450,7 +5511,8 @@
                       "Opens Up The Hips",
                       "Increases Range Of Motion In Ankle",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A7"
                   },
                   {
                     "order": "A8",
@@ -4465,7 +5527,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-pre-core-A8"
                   }
                 ],
                 "note": "During this deload phase we focus on form and technique! This is a great time to clean up form and technique on your main compound lifts! We also do a Circuit Series training to keep the workouts intense (20-30 minutes long) but just enough to get a great stimulus and not overwork the nervous system!"
@@ -4499,7 +5562,8 @@
                       "high": 60,
                       "label": "50-60%"
                     },
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-2-deload-day-1-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -4519,7 +5583,8 @@
                     "variations": [
                       "Explosive Tuck Jump",
                       "Hurdle Jump"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-1-a-block-A2"
                   },
                   {
                     "order": "B1",
@@ -4537,7 +5602,22 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-B1",
+                    "demos": [
+                      {
+                        "id": "folder_front-lunge-and-press",
+                        "src": "media/demos/folder_front-lunge-and-press.mp4",
+                        "poster": "media/demos/folder_front-lunge-and-press.jpg",
+                        "label": "Front Lunge and Press.gif"
+                      },
+                      {
+                        "id": "pptx_3ae0a167c49a",
+                        "src": "media/demos/pptx_3ae0a167c49a.mp4",
+                        "poster": "media/demos/pptx_3ae0a167c49a.jpg",
+                        "label": "Russian Twist.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "C1",
@@ -4554,7 +5634,22 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-C1",
+                    "demos": [
+                      {
+                        "id": "pptx_350f7f9211bf",
+                        "src": "media/demos/pptx_350f7f9211bf.mp4",
+                        "poster": "media/demos/pptx_350f7f9211bf.jpg",
+                        "label": "Push Up w Cross Over Drag.gif"
+                      },
+                      {
+                        "id": "pptx_8cba0ca83044",
+                        "src": "media/demos/pptx_8cba0ca83044.mp4",
+                        "poster": "media/demos/pptx_8cba0ca83044.jpg",
+                        "label": "Reverse Lunge and Twist.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "D1",
@@ -4571,7 +5666,22 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-D1",
+                    "demos": [
+                      {
+                        "id": "pptx_0e1a3aa5540c",
+                        "src": "media/demos/pptx_0e1a3aa5540c.mp4",
+                        "poster": "media/demos/pptx_0e1a3aa5540c.jpg",
+                        "label": "Explosive OH Sit Up.gif"
+                      },
+                      {
+                        "id": "pptx_610af6a1fad6",
+                        "src": "media/demos/pptx_610af6a1fad6.mp4",
+                        "poster": "media/demos/pptx_610af6a1fad6.jpg",
+                        "label": "Lateral Lunge w High Row.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "E1",
@@ -4588,7 +5698,22 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-E1",
+                    "demos": [
+                      {
+                        "id": "pptx_6b973c37feb2",
+                        "src": "media/demos/pptx_6b973c37feb2.mp4",
+                        "poster": "media/demos/pptx_6b973c37feb2.jpg",
+                        "label": "Plate Toe Touches.gif"
+                      },
+                      {
+                        "id": "pptx_434f91678ecc",
+                        "src": "media/demos/pptx_434f91678ecc.mp4",
+                        "poster": "media/demos/pptx_434f91678ecc.jpg",
+                        "label": "Snap Down Decel Squat.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "F1",
@@ -4605,7 +5730,22 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-F1",
+                    "demos": [
+                      {
+                        "id": "pptx_2010487fa7c9",
+                        "src": "media/demos/pptx_2010487fa7c9.mp4",
+                        "poster": "media/demos/pptx_2010487fa7c9.jpg",
+                        "label": "Bent Over 1 Arm Row.gif"
+                      },
+                      {
+                        "id": "pptx_45f80cf94f46",
+                        "src": "media/demos/pptx_45f80cf94f46.mp4",
+                        "poster": "media/demos/pptx_45f80cf94f46.jpg",
+                        "label": "Front Lunge to OH Press.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "G1",
@@ -4625,7 +5765,22 @@
                         30,
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-G1",
+                    "demos": [
+                      {
+                        "id": "pptx_2e32d855d87e",
+                        "src": "media/demos/pptx_2e32d855d87e.mp4",
+                        "poster": "media/demos/pptx_2e32d855d87e.jpg",
+                        "label": "Hollow Body Hold.gif"
+                      },
+                      {
+                        "id": "pptx_37998f40c79e",
+                        "src": "media/demos/pptx_37998f40c79e.mp4",
+                        "poster": "media/demos/pptx_37998f40c79e.jpg",
+                        "label": "In Out Plyo Push Up.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "H1",
@@ -4641,7 +5796,22 @@
                       "presets": [
                         30
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-1-a-block-H1",
+                    "demos": [
+                      {
+                        "id": "pptx_3e5726d574f7",
+                        "src": "media/demos/pptx_3e5726d574f7.mp4",
+                        "poster": "media/demos/pptx_3e5726d574f7.jpg",
+                        "label": "Cross body Heave.gif"
+                      },
+                      {
+                        "id": "pptx_da2cb61ded5d",
+                        "src": "media/demos/pptx_da2cb61ded5d.mp4",
+                        "poster": "media/demos/pptx_da2cb61ded5d.jpg",
+                        "label": "Skater Jumps Plate.gif"
+                      }
+                    ]
                   }
                 ],
                 "rest": {
@@ -4697,6 +5867,15 @@
                     ],
                     "benefits": [
                       "Breaks Down Muscle Adhesions (Lumps & Knots) To Reduce Tension And Restore Muscle Length & Reduce Injuries"
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_1a150035d6e3",
+                        "src": "media/demos/pptx_1a150035d6e3.mp4",
+                        "poster": "media/demos/pptx_1a150035d6e3.jpg",
+                        "label": "Med Ball Smash.gif"
+                      }
                     ]
                   },
                   {
@@ -4711,7 +5890,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -4726,6 +5906,15 @@
                     "benefits": [
                       "Increases Shoulder Mobility",
                       "Increases Shoulder Strength"
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A3",
+                    "demos": [
+                      {
+                        "id": "pptx_b0bffbdac72c",
+                        "src": "media/demos/pptx_b0bffbdac72c.mp4",
+                        "poster": "media/demos/pptx_b0bffbdac72c.jpg",
+                        "label": "Mini Band Shoulder Flexion.gif"
+                      }
                     ]
                   },
                   {
@@ -4741,7 +5930,8 @@
                     "benefits": [
                       "Develops Tremendous Upper Body Strength",
                       "Helps Integrate The Core And Upper Body"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A4"
                   },
                   {
                     "order": "A5",
@@ -4756,7 +5946,8 @@
                     "benefits": [
                       "Develop Lower Body Strength And Power",
                       "Increase Power Production = Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A5"
                   },
                   {
                     "order": "A6",
@@ -4772,6 +5963,15 @@
                     "benefits": [
                       "Reduces Hamstring Pulls, Strains",
                       "Increases Hip Control"
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A6",
+                    "demos": [
+                      {
+                        "id": "pptx_0ceebf44973b",
+                        "src": "media/demos/pptx_0ceebf44973b.mp4",
+                        "poster": "media/demos/pptx_0ceebf44973b.jpg",
+                        "label": "Mini Band Fire Hydrant.gif"
+                      }
                     ]
                   },
                   {
@@ -4788,6 +5988,15 @@
                       "Improves Core Stability & Takes Stress Off Back",
                       "Improves & Stabilizes Hips And Torso",
                       "Strengthens Deep Core Transverse Abdominals"
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A7",
+                    "demos": [
+                      {
+                        "id": "pptx_872f1f4bc84f",
+                        "src": "media/demos/pptx_872f1f4bc84f.mp4",
+                        "poster": "media/demos/pptx_872f1f4bc84f.jpg",
+                        "label": "Mini Band Side Abduction.gif"
+                      }
                     ]
                   },
                   {
@@ -4802,6 +6011,15 @@
                     "benefits": [
                       "Increases Wrist And Forearm Strength",
                       "Increases Grip Strength"
+                    ],
+                    "id": "phase-2-deload-day-2-pre-core-A8",
+                    "demos": [
+                      {
+                        "id": "pptx_2f9ae8a1cdd9",
+                        "src": "media/demos/pptx_2f9ae8a1cdd9.mp4",
+                        "poster": "media/demos/pptx_2f9ae8a1cdd9.jpg",
+                        "label": "Bottoms Up KB Press.gif"
+                      }
                     ]
                   }
                 ],
@@ -4833,7 +6051,16 @@
                       "high": 60,
                       "label": "50-60%"
                     },
-                    "maxKey": "Barbell Bench Press"
+                    "maxKey": "Barbell Bench Press",
+                    "id": "phase-2-deload-day-2-a-block-A1",
+                    "demos": [
+                      {
+                        "id": "api_90e2e342a318",
+                        "src": "media/demos/api_90e2e342a318.mp4",
+                        "poster": "media/demos/api_90e2e342a318.jpg",
+                        "label": "Barbell Bench Press.gif"
+                      }
+                    ]
                   },
                   {
                     "order": "A2",
@@ -4847,6 +6074,15 @@
                     "benefits": [
                       "Increases Force Production",
                       "Increase Reactive Ability"
+                    ],
+                    "id": "phase-2-deload-day-2-a-block-A2",
+                    "demos": [
+                      {
+                        "id": "api_926bb6c6f2a5",
+                        "src": "media/demos/api_926bb6c6f2a5.mp4",
+                        "poster": "media/demos/api_926bb6c6f2a5.jpg",
+                        "label": "Med Ball Chest Pass.gif"
+                      }
                     ]
                   },
                   {
@@ -4870,7 +6106,8 @@
                       "presets": [
                         60
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-2-a-block-B1"
                   }
                 ],
                 "rest": {
@@ -4925,7 +6162,8 @@
                     ],
                     "benefits": [
                       "Breaks Down Muscle Adhesions (Lumps & Knots) To Reduce Tension And Restore Muscle Length To Help Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -4939,7 +6177,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -4953,7 +6192,8 @@
                     "benefits": [
                       "Increases Range Of Motion In Ankle",
                       "Increases Mobility In Ankle Which Can Help With Reducing Injures"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -4967,7 +6207,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A4"
                   },
                   {
                     "order": "A5",
@@ -4981,7 +6222,8 @@
                     "benefits": [
                       "Stabilizes The Hips And Low Back",
                       "Improving Your Ability To Generate Power To Run Faster And Jump Higher"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A5"
                   },
                   {
                     "order": "A6",
@@ -4996,7 +6238,8 @@
                     "benefits": [
                       "Increases Hip Flexor Strength & Resilience",
                       "Core And Hip Stability"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A6"
                   },
                   {
                     "order": "A7",
@@ -5011,7 +6254,8 @@
                       "Opens Up The Hips",
                       "Increases Range Of Motion In Ankle",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A7"
                   },
                   {
                     "order": "A8",
@@ -5026,7 +6270,8 @@
                     "benefits": [
                       "Opens Up The Hips",
                       "Allows For More Range Of Motion Which Can Help With Reducing Injuries"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-pre-core-A8"
                   }
                 ]
               },
@@ -5059,7 +6304,8 @@
                     "maxKey": "Barbell Split Squat",
                     "sourceNotes": [
                       "This day prints 60-70%, not the 50-60% line used on Day 1 and Day 2 of the same deload PDF."
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -5075,7 +6321,8 @@
                       "Increase Ground Reaction",
                       "Increase Fast Twitch Muscle Fibers",
                       "Increase Power Production"
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-a-block-A2"
                   },
                   {
                     "order": "B1",
@@ -5087,7 +6334,8 @@
                     "benefits": [],
                     "sourceNotes": [
                       "The PDF does not print a rep count for this exercise. The Phase 2 Deload Week Day 3 slide has a separate “Lunge Circuit” (forward, backward, lateral, and hamstring lunge walks, repeat 3x) and a table “Reverse Lunge/ Split Squat (60-70%- explode out of the bottom spot) 4x5” and “Alt Split Stance Jump 4x6”. Those slide lines are not the same sets and reps as this PDF page, so they are not merged into this prescription."
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-a-block-B1"
                   },
                   {
                     "order": "B2",
@@ -5099,7 +6347,8 @@
                     "benefits": [],
                     "sourceNotes": [
                       "No rep count is printed on this PDF row."
-                    ]
+                    ],
+                    "id": "phase-2-deload-day-3-a-block-B2"
                   },
                   {
                     "order": "B3",
@@ -5117,7 +6366,8 @@
                       "presets": [
                         90
                       ]
-                    }
+                    },
+                    "id": "phase-2-deload-day-3-a-block-B3"
                   }
                 ],
                 "rest": {
@@ -5133,7 +6383,8 @@
               }
             ],
             "sourceNotes": [
-              "The Phase 2 Deload Week Day 3 slide title also reads “Phase 2 Deload Day 3.” Its lunge table (4x5 and 4x6) does not match this PDF’s 3-4 x 5 and 3-4 x 6. The PDF numbers are what this day uses."
+              "The Phase 2 Deload Week Day 3 slide title also reads “Phase 2 Deload Day 3.” Its lunge table (4x5 and 4x6) does not match this PDF’s 3-4 x 5 and 3-4 x 6. The PDF numbers are what this day uses.",
+              "Lunge Circuit slide text: Forward Lunge 20 yards. Backward Lunge 20 yd. Focus on the lead quad. Drive engagement in the lead quad. Lateral Lunge 20 yd down and back. Focus on and engage the adductors (groin). Hamstring Lunge Walks 2 x 20 yds. Lead with the heel, keep your body low and pull your body forward with your lead leg hamstring. REPEAT 3X. Also on that deck: Reverse Lunge/ Split Squat (60-70%- explode out of the bottom spot) 4x5. Alt Split Stance Jump 4x6. Those lines do not use the same names or sets as this PDF page, so they are not merged into the prescription."
             ],
             "a1ByWeek": {}
           },
@@ -5233,7 +6484,8 @@
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load",
                       "Strengthens Upper Body Rotators"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -5247,6 +6499,15 @@
                     "benefits": [
                       "Increases Functional Strength",
                       "Increases Shoulder & Core Stability/Stabilization"
+                    ],
+                    "id": "phase-3-training-day-1-pre-core-A2",
+                    "demos": [
+                      {
+                        "id": "api_cda54bb43beb",
+                        "src": "media/demos/api_cda54bb43beb.mp4",
+                        "poster": "media/demos/api_cda54bb43beb.jpg",
+                        "label": "Elevated Swiss Ball Sprinter Knee Switch.gif"
+                      }
                     ]
                   },
                   {
@@ -5261,7 +6522,8 @@
                     "benefits": [
                       "Increases Shoulder Stabilization",
                       "Strengthens Side Oblique’s & Hip Complex"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -5276,7 +6538,8 @@
                     "benefits": [
                       "Develop Shoulder Stabilization & Upper Back Strength",
                       "Develops Greater Shoulder Control"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-pre-core-A4"
                   }
                 ],
                 "note": "Activating your core prior to training stimulates those deep intrinsic muscles to engage and stabilize increasing your ability to control the loads/weights during exercise! This will greatly increase your speed and explosive power output reducing your chances of injury!"
@@ -5322,7 +6585,8 @@
                     ],
                     "tempo": "Explosive & Reactive (Concentric)",
                     "rom": "Full Range of Motion",
-                    "maxKey": "Incline Barbell Bench Press"
+                    "maxKey": "Incline Barbell Bench Press",
+                    "id": "phase-3-training-day-1-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -5344,7 +6608,8 @@
                     "column": "Strength-Speed",
                     "loadText": "“Reactive”",
                     "tempo": "Fast & Reactive",
-                    "rom": "Full Range of Motion"
+                    "rom": "Full Range of Motion",
+                    "id": "phase-3-training-day-1-a-block-A2"
                   },
                   {
                     "order": "A3",
@@ -5369,7 +6634,8 @@
                       "label": "Use 20-30% Of A1 Or Lighter As This Is For Speed!"
                     },
                     "tempo": "Fast & Reactive",
-                    "rom": "Full Range of Motion"
+                    "rom": "Full Range of Motion",
+                    "id": "phase-3-training-day-1-a-block-A3"
                   },
                   {
                     "order": "A4",
@@ -5391,7 +6657,8 @@
                     "column": "High Velocity",
                     "loadText": "Band Assisted “Reactive”",
                     "tempo": "Fast & Reactive",
-                    "rom": "Full Range of Motion"
+                    "rom": "Full Range of Motion",
+                    "id": "phase-3-training-day-1-a-block-A4"
                   }
                 ],
                 "rest": {
@@ -5433,7 +6700,8 @@
                       "Develop First Step Explosiveness",
                       "Increases Functional Strength & Coordination",
                       "Increases Shoulder Stability & Stabilization"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -5453,7 +6721,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Ailment At Top.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-block-1-B2"
                   }
                 ],
                 "rest": {
@@ -5499,7 +6768,8 @@
                     ],
                     "sourceNotes": [
                       "The reps cell prints “Pre Side.” The third coaching point ends at “Brace Core And” in the PDF text."
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -5514,7 +6784,8 @@
                       "Develops Dynamic Shoulder And Back Stabilization",
                       "Increases Core Strength",
                       "Increases Upper Body Reaction"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-block-2-C2"
                   }
                 ],
                 "rest": {
@@ -5555,7 +6826,8 @@
                     "benefits": [
                       "Develop Shoulder Stabilization & Upper Back Strength",
                       "Develops Greater Shoulder Control"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -5571,7 +6843,8 @@
                       "Develop Stronger Forearms And Wrist Strength",
                       "Create Crazy Grip Strength",
                       "Develops Side Oblique"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-1-block-3-D2"
                   }
                 ],
                 "rest": {
@@ -5651,7 +6924,8 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -5665,7 +6939,8 @@
                     ],
                     "benefits": [
                       "Increases Mobility Which Can Significantly Improve Your Athleticism And Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -5682,7 +6957,8 @@
                     ],
                     "sourceNotes": [
                       "This row prints 3 sets. The other pre-core rows print 1 set. The cue prints “Keep Body In A Straight Like.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -5701,7 +6977,8 @@
                       "Improves Deceleration",
                       "Improves Landing & Proper Posture",
                       "Allows For Greater Reaction"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-pre-core-A4"
                   }
                 ],
                 "note": "Activating your core prior to training stimulates those deep intrinsic muscles to engage and stabilize increasing your ability to control the loads/weights during exercise! This will greatly increase your speed and explosive power output reducing your chances of injury!"
@@ -5749,7 +7026,8 @@
                     ],
                     "tempo": "Fast Concentric",
                     "rom": "Sports Specific or Just Below 90 Degrees",
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-3-training-day-2-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -5772,7 +7050,8 @@
                     "rom": "Sports Specific",
                     "sourceNotes": [
                       "The benefits cell prints “Muscle Fibres.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-a-block-A2"
                   }
                 ],
                 "rest": {
@@ -5815,7 +7094,8 @@
                       "Activates & Increases Glute Complex Firing",
                       "Increases Single Leg Stability & Stabilization",
                       "Increases Lateral Explosive Power And Multi-Directional Movement Skills"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -5834,7 +7114,8 @@
                     ],
                     "sourceNotes": [
                       "The cue prints “Be Aggressive/ Ground Away.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-block-1-B2"
                   }
                 ],
                 "rest": {
@@ -5874,7 +7155,8 @@
                     "benefits": [
                       "Increases Groin Functional Strength",
                       "Increases & Develops A Tremendous Amount Of Balance, Stability And Power"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -5888,7 +7170,8 @@
                     "benefits": [
                       "Bullet Proof Hamstring & Glutes To Maximize Jumping And Sprinting",
                       "Increase Strength & Flexibility By Lengthening The Hamstrings Through Full Extension"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-block-2-C2"
                   }
                 ],
                 "rest": {
@@ -5921,7 +7204,8 @@
                       "Increases Side Oblique, Lat Development & Groin Strength",
                       "Increases Adductor (Groin) Strength For Reduction In Injuries",
                       "Increases Core Stabilization And Firing"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -5934,7 +7218,8 @@
                     "benefits": [
                       "Increase Hip Flexor And Psoas Strength",
                       "Develop Stronger Core And Hip Complex"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-2-block-3-D2"
                   }
                 ],
                 "rest": {
@@ -6022,7 +7307,8 @@
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load",
                       "Strengthens Upper Body Rotators"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-pre-core-A1"
                   },
                   {
                     "order": "A2",
@@ -6036,6 +7322,15 @@
                     "benefits": [
                       "Increases Functional Strength",
                       "Increases Shoulder & Core Stability/Stabilization"
+                    ],
+                    "id": "phase-3-training-day-3-pre-core-A2",
+                    "demos": [
+                      {
+                        "id": "api_cda54bb43beb",
+                        "src": "media/demos/api_cda54bb43beb.mp4",
+                        "poster": "media/demos/api_cda54bb43beb.jpg",
+                        "label": "Elevated Swiss Ball Sprinter Knee Switch.gif"
+                      }
                     ]
                   },
                   {
@@ -6050,7 +7345,8 @@
                     "benefits": [
                       "Increases Shoulder Stabilization",
                       "Strengthens Side Oblique’s & Hip Complex"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-pre-core-A3"
                   },
                   {
                     "order": "A4",
@@ -6065,7 +7361,8 @@
                     "benefits": [
                       "Develop Shoulder Stabilization & Upper Back Strength",
                       "Develops Greater Shoulder Control"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-pre-core-A4"
                   }
                 ]
               },
@@ -6121,7 +7418,8 @@
                     "maxKey": "Barbell Bench Press",
                     "sourceNotes": [
                       "The parenthetical on the exercise-choice row prints “(Pick your favourite Squat variation)” beside Barbell Bench Press. The reps line prints “92% = 2 Reps Per Set” while the load line prints “Week 10: 92.5% 1RM.” The calculator uses the load line."
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -6141,7 +7439,8 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-3-training-day-3-a-block-A2"
                   }
                 ],
                 "rest": {
@@ -6185,7 +7484,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “On The Decent” and “Do normal pull-ups if you can't do this one.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -6203,7 +7503,8 @@
                       "Increases Functional Strength",
                       "Increases Shoulder Stability & Stabilization",
                       "Increases Glute & Hamstring Strength"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-1-B2"
                   }
                 ],
                 "rest": {
@@ -6245,7 +7546,8 @@
                       "Develops Rotational Strength In The Side Oblique’s",
                       "Increases Upper Body Speed And Power",
                       "Increase Functional Strength And Stabilization In The Core"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -6263,7 +7565,8 @@
                     ],
                     "sourceNotes": [
                       "These coaching points and benefits are what the PDF text places on the Elevated Plank DB Single Arm Row row."
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-2-C2"
                   }
                 ],
                 "rest": {
@@ -6304,7 +7607,8 @@
                       "Develops Tremendous Functional Upper Body Strength",
                       "Increases Functional & Dynamic Core Strength",
                       "Increases Shoulder & Triceps Stability"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -6322,7 +7626,8 @@
                       "Develop Stronger Forearms And Wrist Strength",
                       "Create Crazy Grip Strength",
                       "Increase Full Body And Core Stability"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-3-D2"
                   },
                   {
                     "order": "D3",
@@ -6339,7 +7644,8 @@
                       "Strengthens Deep Core Transverse Abdominals",
                       "Increases Functional Core Strength",
                       "Stabilizes Hips And Torso"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-3-block-3-D3"
                   }
                 ],
                 "rest": {
@@ -6423,6 +7729,15 @@
                     "benefits": [
                       "Strengthens Deep Core Transverse Abdominals",
                       "Improves Diaphragmatic Breathing, Learning To Synergistically Breath & Brace With Load"
+                    ],
+                    "id": "phase-3-training-day-4-pre-core-A1",
+                    "demos": [
+                      {
+                        "id": "pptx_e20fae066f99",
+                        "src": "media/demos/pptx_e20fae066f99.mp4",
+                        "poster": "media/demos/pptx_e20fae066f99.jpg",
+                        "label": "Wall Push Dead Bug.gif"
+                      }
                     ]
                   },
                   {
@@ -6437,7 +7752,8 @@
                     ],
                     "benefits": [
                       "Increases Mobility Which Can Significantly Improve Your Athleticism And Reduce Injuries"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-pre-core-A2"
                   },
                   {
                     "order": "A3",
@@ -6453,6 +7769,15 @@
                     "benefits": [
                       "Glutes Engage",
                       "Stabilizes Hips And Knees"
+                    ],
+                    "id": "phase-3-training-day-4-pre-core-A3",
+                    "demos": [
+                      {
+                        "id": "pptx_7df67d99549d",
+                        "src": "media/demos/pptx_7df67d99549d.mp4",
+                        "poster": "media/demos/pptx_7df67d99549d.jpg",
+                        "label": "Mini Band Lateral Walk.gif"
+                      }
                     ]
                   },
                   {
@@ -6471,7 +7796,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints “Reach Food Forward.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-pre-core-A4"
                   }
                 ]
               },
@@ -6526,7 +7852,8 @@
                       ],
                       "quote": "Take 20-30 seconds rest between reps (clusters)"
                     },
-                    "maxKey": "Back Squat OR Front Squat"
+                    "maxKey": "Back Squat OR Front Squat",
+                    "id": "phase-3-training-day-4-a-block-A1"
                   },
                   {
                     "order": "A2",
@@ -6546,7 +7873,8 @@
                     "column": "Strength-Speed",
                     "loadText": "Bodyweight “Reactive”",
                     "tempo": "Fast (Quick Ground Contact)",
-                    "rom": "Sports Specific"
+                    "rom": "Sports Specific",
+                    "id": "phase-3-training-day-4-a-block-A2"
                   }
                 ],
                 "rest": {
@@ -6591,7 +7919,8 @@
                     ],
                     "sourceNotes": [
                       "The PDF prints the jump as part of this same row. It does not print a separate set count for the jumps."
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-block-1-B1"
                   },
                   {
                     "order": "B2",
@@ -6607,7 +7936,8 @@
                       "Strengthens Deep Core Transverse Abdominals",
                       "Strengthen Side Oblique’s",
                       "Improves Stabilization In Both Core And Shoulders"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-block-1-B2"
                   }
                 ],
                 "rest": {
@@ -6641,7 +7971,8 @@
                       "Increase Speed",
                       "Increased Power Production",
                       "Increased Muscular Endurance"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-block-2-C1"
                   },
                   {
                     "order": "C2",
@@ -6655,7 +7986,8 @@
                       "Improves Core Stability",
                       "Strengthens Deep Core Transverse Abdominals",
                       "Strengthens Shoulders"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-block-2-C2"
                   }
                 ],
                 "rest": {
@@ -6687,7 +8019,8 @@
                     "benefits": [
                       "Improves Posture and Spine Stability",
                       "Develops Strong Lower Back and Core"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-block-3-D1"
                   },
                   {
                     "order": "D2",
@@ -6704,7 +8037,8 @@
                     ],
                     "sourceNotes": [
                       "The benefit cell prints “Decrease Groin Strength.”"
-                    ]
+                    ],
+                    "id": "phase-3-training-day-4-block-3-D2"
                   }
                 ],
                 "rest": {

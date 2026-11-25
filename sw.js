@@ -1,5 +1,5 @@
 /* Offline cache for the lifts reference. No analytics. */
-const CACHE = "wbb-lifts-v1";
+const CACHE = "wbb-lifts-v2";
 const ASSETS = [
   "./",
   "./index.html",
@@ -35,6 +35,10 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
   const req = event.request;
   if (req.method !== "GET") return;
+  if (new URL(req.url).pathname.endsWith(".mp4")) {
+    event.respondWith(fetch(req));
+    return;
+  }
   event.respondWith(
     caches.match(req).then((hit) => {
       const fetched = fetch(req)

@@ -180,6 +180,84 @@
     return store.mode === "novice" ? "3RM" : "1RM";
   }
 
+  function mountDemos(demos) {
+    if (!demos || !demos.length) return null;
+    let index = 0;
+    const frame = h("div", { class: "demo-frame noprint" });
+    const video = document.createElement("video");
+    video.className = "demo-video";
+    video.muted = true;
+    video.defaultMuted = true;
+    video.loop = true;
+    video.playsInline = true;
+    video.setAttribute("playsinline", "");
+    video.setAttribute("muted", "");
+    video.setAttribute("preload", "none");
+    const label = h("p", { class: "meta demo-label" });
+    const noteBox = h("div");
+    const count = h("span", { class: "meta" });
+    function show(next) {
+      index = (next + demos.length) % demos.length;
+      const demo = demos[index];
+      video.pause();
+      video.removeAttribute("src");
+      video.dataset.src = demo.src;
+      video.poster = demo.poster || "";
+      video.dataset.wantPlay = "";
+      label.textContent = demo.label || "";
+      clear(noteBox);
+      append(noteBox, notes(demo.sourceNotes));
+      count.textContent = (index + 1) + " / " + demos.length;
+      video.setAttribute("aria-label", demo.label || "Exercise demo");
+    }
+    show(0);
+    frame.appendChild(video);
+    if (demos.some((d) => d.label)) frame.appendChild(label);
+    frame.appendChild(noteBox);
+    if (demos.length > 1) {
+      const nav = h("div", { class: "demo-nav" });
+      nav.appendChild(h("button", { class: "btn", type: "button", onclick: (event) => { event.preventDefault(); event.stopPropagation(); show(index - 1); } }, "Previous demo"));
+      nav.appendChild(count);
+      nav.appendChild(h("button", { class: "btn", type: "button", onclick: (event) => { event.preventDefault(); event.stopPropagation(); show(index + 1); } }, "Next demo"));
+      frame.appendChild(nav);
+    }
+    return frame;
+  }
+
+  let demoObserver = null;
+  function bindDemoPlayback() {
+    if (demoObserver) demoObserver.disconnect();
+    const active = [];
+    demoObserver = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        const video = entry.target;
+        const visible = entry.isIntersecting && entry.intersectionRatio >= 0.2;
+        if (visible) {
+          if (!video.getAttribute("src") && video.dataset.src) video.src = video.dataset.src;
+          video.dataset.wantPlay = "1";
+          const pending = video.play();
+          if (pending && pending.catch) pending.catch(() => {});
+          const at = active.indexOf(video);
+          if (at >= 0) active.splice(at, 1);
+          active.push(video);
+          while (active.length > 2) {
+            const old = active.shift();
+            if (old && old !== video) {
+              old.pause();
+              old.dataset.wantPlay = "";
+            }
+          }
+        } else {
+          video.pause();
+          video.dataset.wantPlay = "";
+          const at = active.indexOf(video);
+          if (at >= 0) active.splice(at, 1);
+        }
+      });
+    }, { threshold: [0, 0.2, 0.6] });
+    app.querySelectorAll("video.demo-video").forEach((node) => demoObserver.observe(node));
+  }
+
   function render() {
     app.ontouchstart = null;
     app.ontouchend = null;
@@ -197,6 +275,7 @@
     else renderHome();
     if (route.name === "day") store.last = location.hash;
     saveStore();
+    bindDemoPlayback();
   }
 
   function renderHome() {
@@ -239,17 +318,31 @@
     if (condensed) {
       app.appendChild(h("p", { class: "note" },
         h("strong", null, "Source note. "),
-        "The condensed deck uses the same three phases and the same named mobility and dynamic-flexibility lists. It has fewer agility image slides. Those image-only drill names are not in the text, so this page does not add them."
+        "The condensed deck uses the same three phases and the same 14 agility drills, often two drills per slide. Mobility and dynamic-flexibility names match the full deck."
       ));
     }
     w.phases.forEach((phase) => {
       app.appendChild(h("h2", { class: "section-h" }, phase.name));
       app.appendChild(h("p", { class: "quote" }, phase.instructions));
-      const ul = h("ul", { class: "cues" });
       phase.exercises.forEach((ex) => {
-        ul.appendChild(h("li", null, h("a", { href: "#/exercise/" + slug(ex.name) }, ex.name)));
+        const card = h("article", { class: "card" });
+        card.appendChild(h("h3", { class: "ex-name", style: "font-size:1.7rem" },
+          h("a", { href: "#/exercise/" + slug(ex.name), style: "color:inherit;text-decoration:none" }, ex.name)));
+        append(card, mountDemos(ex.demos));
+        if (ex.howToTitle) card.appendChild(h("p", { class: "kicker" }, ex.howToTitle));
+        if (ex.howTo && ex.howTo.length) {
+          const ul = h("ul", { class: "cues" });
+          ex.howTo.forEach((line) => ul.appendChild(h("li", null, line)));
+          card.appendChild(ul);
+        }
+        if (ex.benefits && ex.benefits.length) {
+          const ul = h("ul", { class: "benefits" });
+          ex.benefits.forEach((line) => ul.appendChild(h("li", null, line)));
+          card.appendChild(ul);
+        }
+        append(card, notes(ex.sourceNotes));
+        app.appendChild(card);
       });
-      app.appendChild(ul);
       append(app, notes(phase.sourceNotes));
     });
     app.appendChild(credit());
@@ -257,12 +350,15 @@
 
   function indexExercises() {
     const map = new Map();
-    function add(name, appearance, cues, benefits) {
+    function add(name, appearance, cues, benefits, extra) {
       const key = slug(name);
-      if (!map.has(key)) map.set(key, { slug: key, name: name, cues: [], benefits: [], appearances: [] });
+      if (!map.has(key)) map.set(key, { slug: key, name: name, cues: [], benefits: [], demos: [], howTo: [], sourceNotes: [], appearances: [] });
       const item = map.get(key);
-      cues.forEach((c) => { if (c && item.cues.indexOf(c) === -1) item.cues.push(c); });
+      (cues || []).forEach((c) => { if (c && item.cues.indexOf(c) === -1) item.cues.push(c); });
       (benefits || []).forEach((c) => { if (c && item.benefits.indexOf(c) === -1) item.benefits.push(c); });
+      ((extra && extra.howTo) || []).forEach((c) => { if (c && item.howTo.indexOf(c) === -1) item.howTo.push(c); });
+      ((extra && extra.demos) || []).forEach((d) => { if (!item.demos.some((x) => x.id === d.id)) item.demos.push(d); });
+      ((extra && extra.sourceNotes) || []).forEach((c) => { if (c && item.sourceNotes.indexOf(c) === -1) item.sourceNotes.push(c); });
       item.appearances.push(appearance);
     }
     program.warmup.phases.forEach((phase) => {
@@ -270,7 +366,7 @@
         where: "PEP Warm-Up · " + phase.name,
         href: "#/warmup",
         rx: phase.instructions
-      }, [], []));
+      }, ex.howTo || [], ex.benefits || [], ex));
     });
     program.phases.forEach((phase) => {
       Object.keys(phase.daySets).forEach((setName) => {
@@ -284,13 +380,13 @@
                 where: phase.title + " · " + weekLabel + " · " + day.title,
                 href: href,
                 rx: [ex.sets ? ex.sets + " sets" : "sets not printed", ex.reps ? ex.reps + " reps" : "reps not printed", ex.loadText || "", ex.tempo || ""].filter(Boolean).join(" · ")
-              }, ex.cues, ex.benefits);
+              }, ex.cues, ex.benefits, ex);
               (ex.variations || []).forEach((v) => {
                 if (v !== ex.name) add(v, {
                   where: "Variation on " + ex.name + " · " + phase.title + " · " + day.title,
                   href: href,
                   rx: ex.loadText || ""
-                }, ex.cues, ex.benefits);
+                }, ex.cues, ex.benefits, ex);
               });
             });
           });
@@ -302,7 +398,7 @@
 
   function renderLibrary() {
     app.appendChild(h("h1", { style: "font-size:clamp(2.2rem,7vw,3.6rem)" }, "Exercise library"));
-    app.appendChild(h("p", { class: "lead" }, "Every name below is taken from the PEP files in this reference. A name with no photo means the source package has no still for that exercise."));
+    app.appendChild(h("p", { class: "lead" }, "Every name below is taken from the PEP files in this reference. A still means a mapped demo clip is attached."));
     const search = h("input", { type: "search", placeholder: "Search exercises", "aria-label": "Search exercises" });
     const list = h("div", { class: "grid", style: "margin-top:12px" });
     const items = indexExercises();
@@ -310,10 +406,13 @@
       const q = search.value.trim().toLowerCase();
       clear(list);
       items.filter((item) => !q || item.name.toLowerCase().includes(q)).forEach((item) => {
-        list.appendChild(h("a", { class: "card", href: "#/exercise/" + item.slug },
-          h("h2", { style: "font-size:1.7rem" }, item.name),
-          h("p", null, item.appearances.length + " place" + (item.appearances.length === 1 ? "" : "s"))
-        ));
+        const card = h("a", { class: "card", href: "#/exercise/" + item.slug });
+        if (item.demos && item.demos[0]) {
+          card.appendChild(h("img", { src: item.demos[0].poster, alt: "", style: "max-height:140px;object-fit:cover;width:100%;border-radius:8px" }));
+        }
+        card.appendChild(h("h2", { style: "font-size:1.7rem" }, item.name));
+        card.appendChild(h("p", null, item.appearances.length + " place" + (item.appearances.length === 1 ? "" : "s") + (item.demos.length ? " · " + item.demos.length + " demo" + (item.demos.length === 1 ? "" : "s") : "")));
+        list.appendChild(card);
       });
     }
     search.addEventListener("input", paint);
@@ -331,6 +430,13 @@
     }
     app.appendChild(h("p", { class: "kicker" }, "Exercise"));
     app.appendChild(h("h1", { style: "font-size:clamp(2.2rem,7vw,3.8rem)" }, item.name));
+    append(app, mountDemos(item.demos));
+    if (item.howTo && item.howTo.length) {
+      app.appendChild(h("h2", { class: "section-h" }, "How to, as written"));
+      const ul = h("ul", { class: "cues" });
+      item.howTo.forEach((c) => ul.appendChild(h("li", null, c)));
+      app.appendChild(ul);
+    }
     if (item.cues.length) {
       app.appendChild(h("h2", { class: "section-h" }, "Cues, as written"));
       const ul = h("ul", { class: "cues" });
@@ -350,7 +456,10 @@
         h("p", null, ap.rx)
       ));
     });
-    app.appendChild(h("p", { class: "note" }, h("strong", null, "Source note. "), "No per-exercise demo photo was in the image set for this movement, unless a day page shows a block still."));
+    append(app, notes(item.sourceNotes));
+    if (!item.demos.length) {
+      app.appendChild(h("p", { class: "note" }, h("strong", null, "Source note. "), "No demo video in the mapped set for this name."));
+    }
   }
 
   function renderPhase(route) {
@@ -517,6 +626,7 @@
     if (ex.loadText) bits.push(h("p", null, ex.loadText));
     if (ex.tempo) bits.push(h("p", { class: "tempo" }, ex.tempo));
     if (ex.rom) bits.push(h("p", null, "Range: " + ex.rom));
+    bits.push(mountDemos(ex.demos));
     if (ex.cues && ex.cues.length) {
       const ul = h("ul", { class: "cues" });
       ex.cues.forEach((c) => ul.appendChild(h("li", null, c)));
@@ -581,7 +691,14 @@
 
   function stepsFor(day) {
     if (day.kind === "rest") return [{ kind: "rest", title: day.title, quotes: day.quotes || [], notes: day.sourceNotes || [] }];
-    const steps = program.warmup.phases.map((phase) => ({ kind: "warmup", phase: phase, sectionId: "warmup-" + phase.id }));
+    const steps = [];
+    program.warmup.phases.forEach((phase) => {
+      if (phase.id === "agility") {
+        phase.exercises.forEach((ex) => steps.push({ kind: "warmup", phase: phase, exercise: ex, sectionId: "warmup-agility" }));
+      } else {
+        steps.push({ kind: "warmup", phase: phase, sectionId: "warmup-" + phase.id });
+      }
+    });
     (day.sections || []).forEach((section) => {
       (section.exercises || []).forEach((ex, index) => {
         steps.push({ kind: "exercise", section: section, exercise: ex, index: index });
@@ -856,7 +973,7 @@
       modeToggle(),
       h("a", { class: "btn", href: dayHash(phase, week, day, "stations") }, "Stations")
     ));
-    app.appendChild(h("p", { class: "meta" }, phase.title + " · " + day.title));
+    app.appendChild(h("p", { class: "meta coach-phase-line" }, phase.title + " · " + day.title));
 
     if (step.kind === "exercise" && step.section && step.section.kind === "complex") {
       const strip = h("div", { class: "strip", "aria-label": "Complex order" });
@@ -878,7 +995,7 @@
         const s = steps[idx + delta];
         if (!s) return;
         const label = delta < 0 ? "Prev" : delta === 0 ? "Now" : "Next";
-        const name = s.kind === "warmup" ? s.phase.name : s.kind === "closer" ? "Foam roll & stretch" : s.kind === "rest" ? "Rest" : s.exercise.name;
+        const name = s.kind === "warmup" ? (s.exercise ? s.exercise.name : s.phase.name) : s.kind === "closer" ? "Foam roll & stretch" : s.kind === "rest" ? "Rest" : s.exercise.name;
         strip.appendChild(h("button", { type: "button", class: delta === 0 ? "now" : "", onclick: () => setIdx(idx + delta) },
           h("span", null, label), h("strong", null, name)));
       });
@@ -888,13 +1005,43 @@
     const layout = h("div", { class: "coach-layout" });
     const card = h("article", { class: "coach-card" });
     if (step.kind === "warmup") {
-      card.appendChild(h("p", { class: "kicker" }, "PEP Warm-Up"));
-      card.appendChild(h("h1", { class: "ex-name" }, step.phase.name));
-      card.appendChild(h("p", { class: "rx-big" }, step.phase.instructions));
-      if (step.phase.id === "agility") card.appendChild(h("p", { class: "tempo" }, program.warmup.setup));
-      const ul = h("ul", { class: "cues" });
-      step.phase.exercises.forEach((ex) => ul.appendChild(h("li", null, ex.name)));
-      card.appendChild(ul);
+      const drill = step.exercise;
+      card.appendChild(h("p", { class: "kicker" }, "PEP Warm-Up · " + step.phase.name));
+      if (drill) append(card, mountDemos(drill.demos));
+      card.appendChild(h("h1", { class: "ex-name" }, drill ? drill.name : step.phase.name));
+      card.appendChild(h("p", { class: "tempo" }, step.phase.instructions));
+      if (step.phase.id === "agility") card.appendChild(h("p", null, program.warmup.setup));
+      if (drill) {
+        if (drill.howToTitle) card.appendChild(h("p", { class: "kicker" }, drill.howToTitle));
+        if (drill.howTo) {
+          const ul = h("ul", { class: "cues" });
+          drill.howTo.forEach((line) => ul.appendChild(h("li", null, line)));
+          card.appendChild(ul);
+        }
+        if (drill.benefits) {
+          const ul = h("ul", { class: "benefits" });
+          drill.benefits.forEach((line) => ul.appendChild(h("li", null, line)));
+          card.appendChild(ul);
+        }
+        append(card, notes(drill.sourceNotes));
+      } else {
+        const ul = h("ul", { class: "cues" });
+        step.phase.exercises.forEach((ex) => ul.appendChild(h("li", null, ex.name)));
+        card.appendChild(ul);
+        step.phase.exercises.forEach((ex) => {
+          if (ex.benefits && ex.benefits.length) {
+            card.appendChild(h("h3", { style: "margin-top:12px" }, ex.name));
+            const bl = h("ul", { class: "benefits" });
+            ex.benefits.forEach((line) => bl.appendChild(h("li", null, line)));
+            card.appendChild(bl);
+            append(card, notes(ex.sourceNotes));
+          }
+        });
+      }
+      const liftAt = steps.findIndex((s) => s.kind === "exercise");
+      if (liftAt > idx) {
+        card.appendChild(h("button", { class: "btn noprint", type: "button", onclick: () => setIdx(liftAt) }, "Skip to the lift"));
+      }
       append(card, notes(step.phase.sourceNotes));
     } else if (step.kind === "rest") {
       card.appendChild(h("h1", { class: "ex-name" }, step.title));
@@ -907,6 +1054,7 @@
     } else {
       const ex = step.exercise;
       card.appendChild(h("p", { class: "kicker" }, (ex.order || step.section.title) + (ex.duringRest ? " · during the rest" : "")));
+      append(card, mountDemos(ex.demos));
       card.appendChild(h("h1", { class: "ex-name" }, ex.name));
       const a1 = day.a1ByWeek && day.a1ByWeek[String(week.number)];
       let rx = (ex.sets ? ex.sets + " sets" : "Sets not printed") + "  ×  " + (ex.reps || "reps not printed");
